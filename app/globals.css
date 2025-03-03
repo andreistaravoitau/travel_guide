@@ -1,13 +1,11 @@
 @import "tailwindcss";
 
-@theme {
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -21,4 +19,9 @@ body {
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn_dark_green{
+  background-color:#02623f;
+  @apply px-8 py-4 text-white transition-all hover:bg-black
 }
