@@ -1,0 +1,3122 @@
+{
+  "search_metadata": {
+    "id": "67c5d4a29d239248bedb3702",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/abca489e80515ff9/67c5d4a29d239248bedb3702.json",
+    "created_at": "2025-03-03 16:11:14 UTC",
+    "processed_at": "2025-03-03 16:11:14 UTC",
+    "google_maps_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS5pkozMHkcRwi0fMeV66cI&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/abca489e80515ff9/67c5d4a29d239248bedb3702.html",
+    "total_time_taken": 4.36
+  },
+  "search_parameters": {
+    "engine": "google_maps",
+    "google_domain": "google.com",
+    "hl": "en",
+    "place_id": "ChIJSS5pkozMHkcRwi0fMeV66cI"
+  },
+  "place_results": {
+    "title": "Palace of Culture and Science",
+    "place_id": "ChIJSS5pkozMHkcRwi0fMeV66cI",
+    "data_id": "0x471ecc8c92692e49:0xc2e97ae5311f2dc2",
+    "data_cid": "14044892037721828802",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 52.231837999999996,
+      "longitude": 21.005995
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+    "provider_id": "/m/0862m",
+    "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8k7UQ2y_2d0zR4XYkM0G1rmjT2WFPI-x0tf5K=w114-h86-k-no",
+    "rating_summary": [
+      {
+        "stars": 1,
+        "amount": 1167
+      },
+      {
+        "stars": 2,
+        "amount": 970
+      },
+      {
+        "stars": 3,
+        "amount": 4565
+      },
+      {
+        "stars": 4,
+        "amount": 15232
+      },
+      {
+        "stars": 5,
+        "amount": 54013
+      }
+    ],
+    "rating": 4.6,
+    "reviews": 75947,
+    "type": [
+      "Event venue",
+      "Tourist attraction"
+    ],
+    "type_ids": [
+      "event_venue",
+      "tourist_attraction"
+    ],
+    "description": "Landmark 1950s-built palace of arts & culture with theater, sports field & 30th-floor terrace.",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Getting tickets in advance recommended"
+        ]
+      },
+      {
+        "parking": [
+          "Paid parking lot"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "address": "plac Defilad 1, 00-901 Warszawa, Poland",
+    "website": "http://www.pkin.pl/",
+    "phone": "+48 22 656 76 00",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "plus_code": "62J4+P9 Warsaw, Poland",
+    "admission": [
+      {
+        "title": "Palace of Culture and Science",
+        "icon": "https://www.gstatic.com/ads-travel/ttd/official_admission_32x32.png",
+        "options": [
+          {
+            "link": "https://www.bilety.pkin.pl/?culture=en",
+            "price": "$7.06",
+            "extracted_price": 7.06,
+            "official_site": true
+          }
+        ]
+      },
+      {
+        "title": "Megapass",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://megapass.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "options": [
+          {
+            "title": "Warsaw Palace of Culture and Science Viewing Terrace Entrance Tickets",
+            "link": "https://megapass.com/tours-tickets/warsaw-palace-of-culture-and-science-viewing-terrace-entrance-tickets-i3046?utm_source=google&utm_medium=gttd&utm_campaign=warsaw&utm_term=3046",
+            "price": "$8.92",
+            "extracted_price": 8.92,
+            "extensions": [
+              "Instant confirmation",
+              "Skip the line"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "options": [
+          {
+            "title": "Ticket · Warsaw PKiN observation deck skip-the-line ticket",
+            "link": "https://evendo.com/product/warsaw-pkin-observation-deck-skip-the-line-ticket/22001798?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+            "price": "$11.48",
+            "extracted_price": 11.48,
+            "extensions": [
+              "Multi-attraction pass",
+              "Instant confirmation"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Trip.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://us.trip.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "options": [
+          {
+            "title": "Palace of Culture and Science Viewing Terrace Ticket (Adult)-Option 1",
+            "link": "https://us.trip.com/travel-guide/attraction/warsaw/palace-of-culture-and-science-22873512?locale=en&allianceid=1076145&sid=4330723&s-productIdTop=85159584&source=bm&curr=USD&s-googlever=1740844800000",
+            "price": "$13.19",
+            "extracted_price": 13.19,
+            "extensions": [
+              "Mobile Ticket"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Headout",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.headout.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "options": [
+          {
+            "title": "Skip-the-Line Ticket with English Guided Tour & Access to Observation Deck",
+            "link": "https://www.headout.com/palace-of-culture-and-science-tickets/skip-the-line-tickets-to-the-palace-of-culture-and-science-with-access-to-observation-deck-and-optional-guided-tour-e-22238/?utm_source=google&utm_medium=ttd&utm_term=22238&product_id=22238&option_id=46881&source=&language=en-US&currencyCode=USD&ci=6&cm=maps_nav__22238_46881_en-US_USD",
+            "price": "$19.26",
+            "extracted_price": 19.26,
+            "extensions": [
+              "Free cancellation",
+              "Instant confirmation"
+            ]
+          }
+        ]
+      }
+    ],
+    "experiences": [
+      {
+        "title": "Warsaw: Palace of Culture and Science English Tour",
+        "link": "https://warszawa-bilety.pl/zwiedzaj/palac-kultury-i-nauki/?wycieczka=zwiedzanie-palacu-kultury-i-nauki-z-przewodnikiem-w-jezyku-angielskim-6680",
+        "price": "$35",
+        "extracted_price": 35,
+        "rating": 4.6,
+        "reviews": 75394,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSmkKZmjNFPqf8tS8fwDuXVlkJmt8vPDyw0tor45R03QCiskfY",
+        "source": "ToDo.Travel",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://warszawa-bilety.pl/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "1h 30m"
+      },
+      {
+        "title": "Warsaw: Palace of Culture and Science English Guided Tour",
+        "link": "https://warszawa-bilety.pl/zwiedzaj/palac-kultury-i-nauki/?wycieczka=zwiedzanie-palacu-kultury-i-nauki-z-przewodnikiem-w-jezyku-angielskim-6680",
+        "price": "$35",
+        "extracted_price": 35,
+        "rating": 4.6,
+        "reviews": 75394,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7Tc-9V_pRnXqdLyFcf891EyGETZhot9tqCaPKcopnwWz34Rp",
+        "source": "ToDo.Travel",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://warszawa-bilety.pl/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "1h 30m"
+      },
+      {
+        "title": "Warsaw: Palace of Culture and Science Tour with Terrace",
+        "link": "https://www.getyourguide.com/-t403510?locale=en-US&currency=USD&src=&surface=maps&funnel=nav&google_ads_click_source=&product_id=403510&option_id=732405&ttdwk10=10",
+        "price": "$21",
+        "extracted_price": 21,
+        "rating": 4.3,
+        "reviews": 300,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPHpjaiFt451cYOg_Segm5f-jx2di2FdRQ3Cxzqwi1SgTr8ZN",
+        "source": "GetYourGuide",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getyourguide.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "45m"
+      },
+      {
+        "title": "Warsaw: Palace of Culture and Science Guided Tour",
+        "link": "https://www.getyourguide.com/-t728657?locale=en-US&currency=USD&src=&surface=maps&funnel=nav&google_ads_click_source=&product_id=728657&option_id=1183083&ttdwk10=10",
+        "price": "$25",
+        "extracted_price": 25,
+        "rating": 4.4,
+        "reviews": 26,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQu6UL1SCNIuxN8rxdoxYryxPeLXJWwc1Ja8_-e2ZPM46oSdb",
+        "source": "GetYourGuide",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getyourguide.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "1h 30m"
+      },
+      {
+        "title": "Warsaw Palace of Culture and Science Guided Tour",
+        "link": "https://evendo.com/product/warsaw-palace-of-culture-and-science-guided-tour/28743998?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$24",
+        "extracted_price": 24,
+        "rating": 5,
+        "reviews": 1,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCIiS9Oqb3qNV1bWp2dVBIXBIVHkFtN5cVkVCY33J-bFFC43ak",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "1h 30m"
+      },
+      {
+        "title": "Warsaw Palace of Culture and Science Guided Tour",
+        "link": "https://www.tripadvisor.com/AttractionProductHighlight-g274856-d32868696-Warsaw_Palace_of_Culture_and_Science_Guided_Tour-Warsaw_Mazovia_Province_Central_P.html?supsp=&m=66204&supul=en-US&supsf=maps&supfn=nav&supas=",
+        "price": "$24",
+        "extracted_price": 24,
+        "rating": 5,
+        "reviews": 1,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJ2ioVkX9cswWYBAA19S6RjuzkpK8naS2URRz1FfB_2QL_dwKR",
+        "source": "Tripadvisor",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tripadvisor.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1"
+      },
+      {
+        "title": "Warsaw City Sightseeing in a Retro Bus",
+        "link": "https://evendo.com/product/warsaw-city-sightseeing-in-a-retro-bus/287129-700718?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$36",
+        "extracted_price": 36,
+        "rating": 4.9,
+        "reviews": 105,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSDhZaME4yZZP68XZrXnO5ztVzVSh7aZ3RzQ3IiuF7n_76JB2h",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "2h 30m"
+      },
+      {
+        "title": "Palace of Culture & Science + Warsaw Uprising Museum: SMALL GROUP /inc. Pick-up/",
+        "link": "https://www.viator.com/Warsaw/d528-ttd/p-64610P39?googlettd=true&src=papi&campaign=&surface=maps&funnel=nav",
+        "price": "$201",
+        "extracted_price": 201,
+        "rating": 4.3,
+        "reviews": 3,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWUyJ-VV1USX17S7u_0DaDrviqe74ZbQboo6d7cPbZrtzOqgJV",
+        "source": "Viator",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.viator.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "4h"
+      },
+      {
+        "title": "Palace of Culture & Science + Warsaw Uprising Museum: SMALL GROUP /inc. Pick-up/",
+        "link": "https://www.tripadvisor.com/AttractionProductHighlight-g274856-d15339899-Palace_of_Culture_Science_Warsaw_Uprising_Museum_SMALL_GROUP_inc_Pick_up-Warsaw_Ma.html?supsp=&m=66204&supul=en-US&supsf=maps&supfn=nav&supas=",
+        "price": "$103",
+        "extracted_price": 103,
+        "rating": 4.5,
+        "reviews": 3,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmNx9SAnCQufuGASm3WO1QWuw8ajLU8ShuhoZwICjxY3aOQFU9",
+        "source": "Tripadvisor",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tripadvisor.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1"
+      },
+      {
+        "title": "Warsaw: Palace of Culture & Warsaw City Center Private Tour",
+        "link": "https://www.getyourguide.com/-t224151?locale=en-US&currency=USD&src=&surface=maps&funnel=nav&google_ads_click_source=&product_id=224151&option_id=385380&ttdwk10=10",
+        "price": "$118",
+        "extracted_price": 118,
+        "rating": 4.5,
+        "reviews": 12,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWr2QbRScv2p3dBzQs9VtSfyA8MlvM1rograKaBi0iK0YLJcqH",
+        "source": "GetYourGuide",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getyourguide.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "2h"
+      },
+      {
+        "title": "Palace of Culture & Science + POLIN Museum : SMALL GROUP /inc. Pick-up/",
+        "link": "https://evendo.com/product/palace-of-culture-science-polin-museum-small-group-inc-pick-up/287263-700852?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$103",
+        "extracted_price": 103,
+        "rating": 5,
+        "reviews": 1,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3lRh9PER-6uTz9IiEl7qmqcZBe6KMsa3r-ajQ1rSMTDk1ojYT",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "4h"
+      },
+      {
+        "title": "Palace of Culture & Science + POLIN Museum : SMALL GROUP /inc. Pick-up/",
+        "link": "https://www.tripadvisor.com/AttractionProductHighlight-g274856-d15342366-Palace_of_Culture_Science_POLIN_Museum_SMALL_GROUP_inc_Pick_up-Warsaw_Mazovia_Prov.html?supsp=&m=66204&supul=en-US&supsf=maps&supfn=nav&supas=",
+        "price": "$106",
+        "extracted_price": 106,
+        "rating": 5,
+        "reviews": 1,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYPDa07S3ojE6QKFVhU-KjbNO43rH5hBGgqhilKiLbsriogAEz",
+        "source": "Tripadvisor",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tripadvisor.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1"
+      },
+      {
+        "title": "Warsaw Palace of Culture and Science Guided Tour",
+        "link": "https://www.viator.com/Warsaw/d528-ttd/p-470903P13?googlettd=true&src=papi&campaign=&surface=maps&funnel=nav",
+        "price": "$24",
+        "extracted_price": 24,
+        "rating": 3,
+        "reviews": 2,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTiV6cyR7OW87BGs-bB12G90Rw8MrAQXiUA80ZQkIJ5EipeVGg",
+        "source": "Viator",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.viator.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "1h 30m"
+      },
+      {
+        "title": "Palace of Culture & Science + Warsaw Uprising Museum: PRIVATE TOUR /inc.Pick-up/",
+        "link": "https://www.tripadvisor.com/AttractionProductHighlight-g274856-d15339897-Palace_of_Culture_Science_Warsaw_Uprising_Museum_PRIVATE_TOUR_inc_Pick_up-Warsaw_M.html?supsp=&m=66204&supul=en-US&supsf=maps&supfn=nav&supas=",
+        "price": "$111",
+        "extracted_price": 111,
+        "rating": 3.5,
+        "reviews": 3,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-WTbgSiP0rJgdvh7W5jpeO790vtvRX9bwOLYvUIHNcCUJRs8",
+        "source": "Tripadvisor",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tripadvisor.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1"
+      },
+      {
+        "title": "Half-Day Warsaw City Sightseeing Bike Tour for Small Group",
+        "link": "https://evendo.com/product/half-day-warsaw-city-sightseeing-bike-tour-for-small-group/287138-700727?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$37",
+        "extracted_price": 37,
+        "rating": 4.8,
+        "reviews": 199,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79CRQyvEE_0SS19VDhyHQFZDh8oU9IvmWLCpzMCogmXHrp7Lv",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "3h"
+      },
+      {
+        "title": "Warsaw: Old Town Highlights Private Walking Tour",
+        "link": "https://evendo.com/product/warsaw-old-town-highlights-private-walking-tour/286957-700546?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$93",
+        "extracted_price": 93,
+        "rating": 5,
+        "reviews": 5,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpV_9RKQvfMTN6MB-9ElYr9TJnHa1ZE84h011zsXgWE5gM9btG",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "2h"
+      },
+      {
+        "title": "Palace of Culture & Science + Warsaw Uprising Museum: SMALL GROUP /inc. Pick-up/",
+        "link": "https://www.cooldestinations.com/activity/warsaw/palace-of-culture-science-warsaw-uprising-museum-small-group-inc-pick-up/?ttd_source=&language=en-US&currency=USD&q_activity_id=1018750&q_option_id=1018750-DEFAULT&ttd_surface=maps&ttd_funnel=nav&ttd_click_source=",
+        "price": "$254",
+        "extracted_price": 254,
+        "rating": 5,
+        "reviews": 1,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-mOFJnyOwh7GTZxFB_AaueQkJ1hFRXVrnE-kfBxkCMw9D0rjZ",
+        "source": "Cool Destinations",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cooldestinations.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1"
+      },
+      {
+        "title": "Retro Fiat Self-Drive Undisovered Tour in Warsaw",
+        "link": "https://evendo.com/product/retro-fiat-self-drive-undisovered-tour-in-warsaw/287202-700791?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$51",
+        "extracted_price": 51,
+        "rating": 4.9,
+        "reviews": 49,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8jHVYsmXYMjPGD81Ms5q5T9ea44WNIdJr_lfquU_r3e9LT8b8",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "2h 30m"
+      },
+      {
+        "title": "Self-Drive Tour: Communist Warsaw by Retro Fiat \"Toddler\"",
+        "link": "https://evendo.com/product/self-drive-tour-communist-warsaw-by-retro-fiat-toddler/287324-700913?utm_source=google&utm_medium=gttd&utm_campaign=nav&language=en-US&currency=USD&surface=maps&funnel=nav",
+        "price": "$61",
+        "extracted_price": 61,
+        "rating": 5,
+        "reviews": 18,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKnVWZBXs36bQYeiqI3W8BA-EUQTRuUtkxkOjFuntdKRBs7cwn",
+        "source": "Evendo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://evendo.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "2h 30m"
+      },
+      {
+        "title": "Warsaw: Old Town Highlights Private Walking Tour",
+        "link": "https://www.getyourguide.com/-t130305?locale=en-US&currency=USD&src=&surface=maps&funnel=nav&google_ads_click_source=&product_id=130305&option_id=212565&ttdwk10=10",
+        "price": "$96",
+        "extracted_price": 96,
+        "rating": 4.7,
+        "reviews": 58,
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpkAXU7pil-Z3enYDtcxTGto8LvSQm87USTYjcd66WnT-etCv",
+        "source": "GetYourGuide",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.getyourguide.com/&client=DESTINATION_EXPLORE&type=FAVICON&size=32&fallback_opts=TYPE,SIZE,URL&nfrp=1",
+        "duration": "2h"
+      }
+    ],
+    "hours": [
+      {
+        "monday": "10 AM–8 PM"
+      },
+      {
+        "tuesday": "10 AM–8 PM"
+      },
+      {
+        "wednesday": "10 AM–8 PM"
+      },
+      {
+        "thursday": "10 AM–8 PM"
+      },
+      {
+        "friday": "10 AM–8 PM"
+      },
+      {
+        "saturday": "10 AM–8 PM"
+      },
+      {
+        "sunday": "10 AM–8 PM"
+      }
+    ],
+    "images": [
+      {
+        "title": "All",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN8k7UQ2y_2d0zR4XYkM0G1rmjT2WFPI-x0tf5K=w397-h298-k-no"
+      },
+      {
+        "title": "Latest",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM0ANjUSg8vSKzeixSrWSm6AwTFX-vofTm3TA2F=w224-h298-k-no"
+      },
+      {
+        "title": "Videos",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNSjR-AJAhubjWcSrzVfZaxWGFMWO6JQaL-xMxa=w529-h298-k-no"
+      },
+      {
+        "title": "Congress Hall",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMnOJLwN03kktRGaY8Scq7v_IoRUyTUSLS_ViGm=w224-h485-k-no"
+      },
+      {
+        "title": "STUDIO Theater",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMpFUIrVs4cfIGdzcC8k-DWCAzZhfodbxPmyhXG=w224-h397-k-no"
+      },
+      {
+        "title": "Observation deck",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJZq-oIrszDR9ZkVwfm_mIeRxa-ebjGuNRQtQt=w224-h298-k-no"
+      },
+      {
+        "title": "Street View & 360°",
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM1mYA18g9NaygNep07tBJjI9ByTcvjCJx70Ss=w224-h298-k-no-pi-22.958199-ya192.9228-ro-0-fo100"
+      }
+    ],
+    "questions_and_answers": [
+      {
+        "question": {
+          "text": "(Translated by Google) Is there an entrance fee to the Palace of Culture? (Original) Czy wejscie do palacu kultury jest platne",
+          "date": "7 years ago",
+          "language": "pl"
+        },
+        "answer": {
+          "text": "(Translated by Google) There is no entrance, but yes to the observation deck (Original) Wejście nie za to na taras widokowy tak",
+          "date": "7 years ago",
+          "language": "pl"
+        },
+        "total_answers": 23
+      }
+    ],
+    "at_this_place": {
+      "type": [
+        {
+          "title": "Food & Drink",
+          "places": 9
+        },
+        {
+          "title": "Shopping",
+          "places": 7
+        },
+        {
+          "title": "Recreations",
+          "places": 5
+        },
+        {
+          "title": "Services",
+          "places": 30
+        },
+        {
+          "title": "Health & Beauty",
+          "places": 3
+        },
+        {
+          "title": "Other",
+          "places": 47
+        }
+      ],
+      "places": [
+        {
+          "position": 1,
+          "title": "Observation deck",
+          "data_id": "0x471ecc8c94572c09:0x351e8f8878fc9abe",
+          "data_cid": "3827654549619645118",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c94572c09%3A0x351e8f8878fc9abe&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c94572c09%3A0x351e8f8878fc9abe&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231713899999995,
+            "longitude": 21.006196
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c94572c09%3A0x351e8f8878fc9abe%218m2%213d52.231713899999995%214d21.006196&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "rating": 4.6,
+          "reviews": 13411,
+          "type": "Observation deck",
+          "type_id": "observation_deck",
+          "address": "plac Defilad 1, 00-901 Warszawa, Poland",
+          "open_state": "Open ⋅ Closes 8 PM",
+          "hours": [
+            {
+              "monday": "10 AM–8 PM"
+            },
+            {
+              "tuesday": "10 AM–8 PM"
+            },
+            {
+              "wednesday": "10 AM–8 PM"
+            },
+            {
+              "thursday": "10 AM–8 PM"
+            },
+            {
+              "friday": "10 AM–8 PM"
+            },
+            {
+              "saturday": "10 AM–8 PM"
+            },
+            {
+              "sunday": "10 AM–8 PM"
+            }
+          ],
+          "thumbanil": "https://lh5.googleusercontent.com/p/AF1QipM7U9zubUH1LHiFMoSx95_RWdafhWhODOtOD1DH=w86-h86-n-k-no"
+        },
+        {
+          "position": 2,
+          "title": "Kinoteka",
+          "data_id": "0x471ecc8cd66aacb1:0xd8a86aba7c82e0dd",
+          "data_cid": "15611845457465237725",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8cd66aacb1%3A0xd8a86aba7c82e0dd&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8cd66aacb1%3A0xd8a86aba7c82e0dd&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2312884,
+            "longitude": 21.006501399999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8cd66aacb1%3A0xd8a86aba7c82e0dd%218m2%213d52.2312884%214d21.006501399999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "rating": 4.4,
+          "reviews": 5632,
+          "type": "Movie theater",
+          "type_id": "movie_theater",
+          "address": "Palace of Culture and Science, plac Defilad 1, 00-901 Warszawa, Poland",
+          "open_state": "Open ⋅ Closes 12 AM",
+          "hours": [
+            {
+              "monday": "1 PM–12 AM"
+            },
+            {
+              "tuesday": "1 PM–12 AM"
+            },
+            {
+              "wednesday": "1 PM–12 AM"
+            },
+            {
+              "thursday": "1 PM–12 AM"
+            },
+            {
+              "friday": "1 PM–12 AM"
+            },
+            {
+              "saturday": "1 PM–12 AM"
+            },
+            {
+              "sunday": "1 PM–12 AM"
+            }
+          ],
+          "thumbanil": "https://lh5.googleusercontent.com/p/AF1QipOveGNK-jktq7y9DDVK99YlkWfLKLn3IkyW1odo=w86-h86-n-k-no"
+        },
+        {
+          "position": 3,
+          "title": "6th Floor Theatre",
+          "data_id": "0x471ecc8c92692e49:0x90e47bd2a824de9e",
+          "data_cid": "10440605980845989534",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x90e47bd2a824de9e&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x90e47bd2a824de9e&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231674100000006,
+            "longitude": 21.0067271
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x90e47bd2a824de9e%218m2%213d52.231674100000006%214d21.0067271&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "rating": 4.7,
+          "reviews": 4094,
+          "type": "Performing arts theater",
+          "type_id": "performing_arts_theater",
+          "address": "wejście od, plac Defilad, Marszałkowska 1, 00-901 Warszawa, Poland",
+          "open_state": "Open ⋅ Closes 7:30 PM",
+          "hours": [
+            {
+              "monday": "12–7:30 PM"
+            },
+            {
+              "tuesday": "12–7:30 PM"
+            },
+            {
+              "wednesday": "12–7:30 PM"
+            },
+            {
+              "thursday": "12–7:30 PM"
+            },
+            {
+              "friday": "12–7:30 PM"
+            },
+            {
+              "saturday": "12–6 PM"
+            },
+            {
+              "sunday": "12–6 PM"
+            }
+          ],
+          "thumbanil": "https://lh5.googleusercontent.com/p/AF1QipP97kN8qvlobZDg5JSN8seYpK0Owl929Wf2583k=w86-h86-n-k-no"
+        },
+        {
+          "position": 4,
+          "title": "Museum of Evolution",
+          "data_id": "0x471ecc8c92f4fd75:0x45827aefe0ea3e12",
+          "data_cid": "5008700906278632978",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92f4fd75%3A0x45827aefe0ea3e12&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92f4fd75%3A0x45827aefe0ea3e12&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2323287,
+            "longitude": 21.0058526
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92f4fd75%3A0x45827aefe0ea3e12%218m2%213d52.2323287%214d21.0058526&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "rating": 4.2,
+          "reviews": 2826,
+          "type": "Science museum",
+          "type_id": "science_museum",
+          "address": "plac Defilad, 00-901 Warszawa, Poland",
+          "location": "Floor G",
+          "open_state": "Closed ⋅ Opens 8 AM Tue",
+          "hours": [
+            {
+              "monday": "Closed"
+            },
+            {
+              "tuesday": "8 AM–4 PM"
+            },
+            {
+              "wednesday": "8 AM–4 PM"
+            },
+            {
+              "thursday": "8 AM–4 PM"
+            },
+            {
+              "friday": "8 AM–4 PM"
+            },
+            {
+              "saturday": "8 AM–4 PM"
+            },
+            {
+              "sunday": "9 AM–3 PM"
+            }
+          ],
+          "thumbanil": "https://lh5.googleusercontent.com/p/AF1QipOXW_Rd4T2jlh-nLEClnScpsmxZPeO-5_s1iUXD=w86-h86-n-k-no"
+        },
+        {
+          "position": 5,
+          "title": "Bar Studio",
+          "data_id": "0x471ecc8c948e2619:0x3de6d4bdb10a5166",
+          "data_cid": "4460486392141205862",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c948e2619%3A0x3de6d4bdb10a5166&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c948e2619%3A0x3de6d4bdb10a5166&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.232447199999996,
+            "longitude": 21.0068441
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c948e2619%3A0x3de6d4bdb10a5166%218m2%213d52.232447199999996%214d21.0068441&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "rating": 4.4,
+          "reviews": 2466,
+          "type": "Bar",
+          "type_id": "bar",
+          "address": "plac Defilad 1, 00-901 Warszawa, Poland",
+          "open_state": "Open ⋅ Closes 12 AM",
+          "hours": [
+            {
+              "monday": "9 AM–12 AM"
+            },
+            {
+              "tuesday": "9 AM–12 AM"
+            },
+            {
+              "wednesday": "9 AM–12 AM"
+            },
+            {
+              "thursday": "9 AM–12 AM"
+            },
+            {
+              "friday": "9 AM–3 AM"
+            },
+            {
+              "saturday": "9 AM–3 AM"
+            },
+            {
+              "sunday": "9 AM–12 AM"
+            }
+          ],
+          "thumbanil": "https://lh5.googleusercontent.com/p/AF1QipM_PBp9gxCY00M4sFbws0cpw1lTwaxte1PBwwNw=w86-h86-n-k-no"
+        },
+        {
+          "position": 6,
+          "title": "Kulturalna",
+          "data_id": "0x471ecc8c92692e49:0xc7410a6dac3b07f9",
+          "data_cid": "14357768553191114745",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xc7410a6dac3b07f9&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xc7410a6dac3b07f9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231430499999995,
+            "longitude": 21.0073032
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xc7410a6dac3b07f9%218m2%213d52.231430499999995%214d21.0073032&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Restaurant",
+          "type_id": "restaurant"
+        },
+        {
+          "position": 7,
+          "title": "National Museum of Technology in Warsaw",
+          "data_id": "0x471ecc8ce75784f9:0x189aeaebeb35e57f",
+          "data_cid": "1772987702308103551",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8ce75784f9%3A0x189aeaebeb35e57f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8ce75784f9%3A0x189aeaebeb35e57f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.230432199999996,
+            "longitude": 21.005917099999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8ce75784f9%3A0x189aeaebeb35e57f%218m2%213d52.230432199999996%214d21.005917099999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Technology museum",
+          "type_id": "technology_museum"
+        },
+        {
+          "position": 8,
+          "title": "Teatr Dramatyczny",
+          "data_id": "0x471ecc8cb8eb1a61:0xe7d26e60d8cf5458",
+          "data_cid": "16704535330103972952",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8cb8eb1a61%3A0xe7d26e60d8cf5458&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8cb8eb1a61%3A0xe7d26e60d8cf5458&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231480000000005,
+            "longitude": 21.0074839
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8cb8eb1a61%3A0xe7d26e60d8cf5458%218m2%213d52.231480000000005%214d21.0074839&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Performing arts theater",
+          "type_id": "performing_arts_theater"
+        },
+        {
+          "position": 9,
+          "title": "STUDIO Theater",
+          "data_id": "0x471ecc8c926f195d:0xa697e8e3d38fd453",
+          "data_cid": "12004319396983985235",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c926f195d%3A0xa697e8e3d38fd453&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c926f195d%3A0xa697e8e3d38fd453&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2324841,
+            "longitude": 21.006781399999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c926f195d%3A0xa697e8e3d38fd453%218m2%213d52.2324841%214d21.006781399999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Performing arts theater",
+          "type_id": "performing_arts_theater"
+        },
+        {
+          "position": 10,
+          "title": "Youth Palace in Warsaw",
+          "data_id": "0x471ecc8c92692e49:0x325531121fed7b6a",
+          "data_cid": "3626859028831632234",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x325531121fed7b6a&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x325531121fed7b6a&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2323885,
+            "longitude": 21.005842200000004
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x325531121fed7b6a%218m2%213d52.2323885%214d21.005842200000004&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Community center",
+          "type_id": "community_center"
+        },
+        {
+          "position": 11,
+          "title": "Wystawa Pająków Warszawa",
+          "data_id": "0x471ecdc6575c6429:0x54678e2bcca536df",
+          "data_cid": "6081986140555261663",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdc6575c6429%3A0x54678e2bcca536df&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdc6575c6429%3A0x54678e2bcca536df&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2318493,
+            "longitude": 21.0066864
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdc6575c6429%3A0x54678e2bcca536df%218m2%213d52.2318493%214d21.0066864&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Tourist attraction",
+          "type_id": "tourist_attraction"
+        },
+        {
+          "position": 12,
+          "title": "Lalka Theater",
+          "data_id": "0x471ecc8c8fda681f:0xc767f0cc7ad14b8e",
+          "data_cid": "14368717897173388174",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c8fda681f%3A0xc767f0cc7ad14b8e&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c8fda681f%3A0xc767f0cc7ad14b8e&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2330397,
+            "longitude": 21.006476799999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c8fda681f%3A0xc767f0cc7ad14b8e%218m2%213d52.2330397%214d21.006476799999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Performing arts theater",
+          "type_id": "performing_arts_theater"
+        },
+        {
+          "position": 13,
+          "title": "Fotolab Fotoforma",
+          "data_id": "0x471eccf345402ef7:0x94eeb366aeb18dea",
+          "data_cid": "10731712215669378538",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471eccf345402ef7%3A0x94eeb366aeb18dea&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471eccf345402ef7%3A0x94eeb366aeb18dea&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.230353,
+            "longitude": 21.010670299999997
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471eccf345402ef7%3A0x94eeb366aeb18dea%218m2%213d52.230353%214d21.010670299999997&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Photo shop",
+          "type_id": "photo_shop"
+        },
+        {
+          "position": 14,
+          "title": "WPT1313",
+          "data_id": "0x471ecc8c9469619f:0x4c0f4f3e82ac2df3",
+          "data_cid": "5480686401432071667",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0x4c0f4f3e82ac2df3&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0x4c0f4f3e82ac2df3&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231719,
+            "longitude": 21.0059911
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9469619f%3A0x4c0f4f3e82ac2df3%218m2%213d52.231719%214d21.0059911&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Tour agency",
+          "type_id": "tour_agency"
+        },
+        {
+          "position": 15,
+          "title": "Green Caffè Nero",
+          "data_id": "0x471ecc8c5c50d67f:0x97f976eba20fca25",
+          "data_cid": "10950914723336407589",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c5c50d67f%3A0x97f976eba20fca25&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c5c50d67f%3A0x97f976eba20fca25&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2318182,
+            "longitude": 21.0066077
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c5c50d67f%3A0x97f976eba20fca25%218m2%213d52.2318182%214d21.0066077&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Cafe",
+          "type_id": "cafe"
+        },
+        {
+          "position": 16,
+          "title": "Akademia Fotografii",
+          "data_id": "0x471ecce74630f377:0x5402ce9d726456e9",
+          "data_cid": "6053628024763733737",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecce74630f377%3A0x5402ce9d726456e9&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecce74630f377%3A0x5402ce9d726456e9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecce74630f377%3A0x5402ce9d726456e9%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Art school",
+          "type_id": "art_school"
+        },
+        {
+          "position": 17,
+          "title": "Bistro Trojka",
+          "data_id": "0x471ecc8c92692e49:0x24d22a2c944d8331",
+          "data_cid": "2653229501429678897",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x24d22a2c944d8331&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x24d22a2c944d8331&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x24d22a2c944d8331%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Polish restaurant",
+          "type_id": "polish_restaurant"
+        },
+        {
+          "position": 18,
+          "title": "Collegium Civitas w PKiN",
+          "data_id": "0x471ecc8c92657995:0x851d6fc52aca507e",
+          "data_cid": "9591945673986166910",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92657995%3A0x851d6fc52aca507e&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92657995%3A0x851d6fc52aca507e&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317994,
+            "longitude": 21.0063159
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92657995%3A0x851d6fc52aca507e%218m2%213d52.2317994%214d21.0063159&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "University",
+          "type_id": "university"
+        },
+        {
+          "position": 19,
+          "title": "Congress Hall",
+          "data_id": "0x471ecc8c92692e49:0x715eff89d1377ea1",
+          "data_cid": "8169247741482335905",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x715eff89d1377ea1&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x715eff89d1377ea1&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2315018,
+            "longitude": 21.005053699999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x715eff89d1377ea1%218m2%213d52.2315018%214d21.005053699999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Concert hall",
+          "type_id": "concert_hall"
+        },
+        {
+          "position": 20,
+          "title": "So Coffee",
+          "data_id": "0x471ecc8c92df2cdb:0xc9af765d6d5faae4",
+          "data_cid": "14532964666186902244",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92df2cdb%3A0xc9af765d6d5faae4&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92df2cdb%3A0xc9af765d6d5faae4&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.23147600000001,
+            "longitude": 21.0062723
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92df2cdb%3A0xc9af765d6d5faae4%218m2%213d52.23147600000001%214d21.0062723&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Cafe",
+          "type_id": "cafe"
+        },
+        {
+          "position": 21,
+          "title": "Biura-Rachunkowe.waw.pl",
+          "data_id": "0x471ecc8c92692e49:0x71516328ef86f7f",
+          "data_cid": "510338539179241343",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x71516328ef86f7f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x71516328ef86f7f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x71516328ef86f7f%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Accounting firm",
+          "type_id": "accounting_firm"
+        },
+        {
+          "position": 22,
+          "title": "Warsaw Tourist Information",
+          "data_id": "0x471ecc6f00000001:0xe287af3f357a9030",
+          "data_cid": "16323208060442677296",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc6f00000001%3A0xe287af3f357a9030&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc6f00000001%3A0xe287af3f357a9030&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2308782,
+            "longitude": 21.005387400000004
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc6f00000001%3A0xe287af3f357a9030%218m2%213d52.2308782%214d21.005387400000004&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Tourist information center",
+          "type_id": "tourist_information_center"
+        },
+        {
+          "position": 23,
+          "title": "Akademia Tańca TU SIĘ TAŃCZY Monika Sołowiej-Sulewska",
+          "data_id": "0x471ecc8c9469619f:0xc3026d9c6290598f",
+          "data_cid": "14051914305785321871",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0xc3026d9c6290598f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0xc3026d9c6290598f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9469619f%3A0xc3026d9c6290598f%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Dance school",
+          "type_id": "dance_school"
+        },
+        {
+          "position": 24,
+          "title": "Gwiazdy Bliżej Gwi@zd",
+          "data_id": "0x471ecd23e87536b3:0x86181f3ee77d0794",
+          "data_cid": "9662507355555563412",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd23e87536b3%3A0x86181f3ee77d0794&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd23e87536b3%3A0x86181f3ee77d0794&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231707199999995,
+            "longitude": 21.0063683
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd23e87536b3%3A0x86181f3ee77d0794%218m2%213d52.231707199999995%214d21.0063683&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Cafe",
+          "type_id": "cafe"
+        },
+        {
+          "position": 25,
+          "title": "\"Wszechnica Polska\" Akademia Nauk Stosowanych w Warszawie",
+          "data_id": "0x471ecc8c927624ab:0xa90683bec0ff27aa",
+          "data_cid": "12179567097575057322",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c927624ab%3A0xa90683bec0ff27aa&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c927624ab%3A0xa90683bec0ff27aa&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231856,
+            "longitude": 21.005907600000004
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c927624ab%3A0xa90683bec0ff27aa%218m2%213d52.231856%214d21.005907600000004&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "University",
+          "type_id": "university"
+        },
+        {
+          "position": 26,
+          "title": "Młody Balet Polski",
+          "data_id": "0x471ecc8c92afe43f:0x94bd6eb25f1f1ec8",
+          "data_cid": "10717844400590757576",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0x94bd6eb25f1f1ec8&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0x94bd6eb25f1f1ec8&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231677999999995,
+            "longitude": 21.005827999999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92afe43f%3A0x94bd6eb25f1f1ec8%218m2%213d52.231677999999995%214d21.005827999999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Ballet school",
+          "type_id": "ballet_school"
+        },
+        {
+          "position": 27,
+          "title": "Best View Estates",
+          "data_id": "0x471ecd4e9558d7eb:0xa91b4b4bbc8f185",
+          "data_cid": "761588500339945861",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd4e9558d7eb%3A0xa91b4b4bbc8f185&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd4e9558d7eb%3A0xa91b4b4bbc8f185&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2319896,
+            "longitude": 21.0067217
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd4e9558d7eb%3A0xa91b4b4bbc8f185%218m2%213d52.2319896%214d21.0067217&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Apartment rental agency",
+          "type_id": "apartment_rental_agency"
+        },
+        {
+          "position": 28,
+          "title": "Varsovia en español",
+          "data_id": "0x471ecdf72cab9f37:0x6b66fe835801f7eb",
+          "data_cid": "7739152849753470955",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdf72cab9f37%3A0x6b66fe835801f7eb&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdf72cab9f37%3A0x6b66fe835801f7eb&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2320747,
+            "longitude": 21.0059777
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdf72cab9f37%3A0x6b66fe835801f7eb%218m2%213d52.2320747%214d21.0059777&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Tourist attraction",
+          "type_id": "tourist_attraction"
+        },
+        {
+          "position": 29,
+          "title": "Michał Strawa Design Studio",
+          "data_id": "0x471ecdcb98b61915:0x1b66c03fe02374d0",
+          "data_cid": "1974476867224433872",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdcb98b61915%3A0x1b66c03fe02374d0&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdcb98b61915%3A0x1b66c03fe02374d0&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdcb98b61915%3A0x1b66c03fe02374d0%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Interior designer",
+          "type_id": "interior_designer"
+        },
+        {
+          "position": 30,
+          "title": "Palace of Culture and Science",
+          "data_id": "0x471ecdf7d5009841:0xe41879c739757dbd",
+          "data_cid": "16436020736658079165",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdf7d5009841%3A0xe41879c739757dbd&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdf7d5009841%3A0xe41879c739757dbd&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231845,
+            "longitude": 21.0059932
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdf7d5009841%3A0xe41879c739757dbd%218m2%213d52.231845%214d21.0059932&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Museum",
+          "type_id": "museum"
+        },
+        {
+          "position": 31,
+          "title": "Akademia Stylu - kursy wizażu i stylizacji",
+          "data_id": "0x471ecc8c92afe43f:0x3ee1ce135e98cbd",
+          "data_cid": "283195580168637629",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0x3ee1ce135e98cbd&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0x3ee1ce135e98cbd&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92afe43f%3A0x3ee1ce135e98cbd%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Art school",
+          "type_id": "art_school"
+        },
+        {
+          "position": 32,
+          "title": "Studio Smaku - Cafeteria",
+          "data_id": "0x471ecdd54be3ce17:0x48c3cfca904a8cdf",
+          "data_cid": "5243262860100537567",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdd54be3ce17%3A0x48c3cfca904a8cdf&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdd54be3ce17%3A0x48c3cfca904a8cdf&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2328669,
+            "longitude": 21.0062097
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdd54be3ce17%3A0x48c3cfca904a8cdf%218m2%213d52.2328669%214d21.0062097&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Cafe",
+          "type_id": "cafe"
+        },
+        {
+          "position": 33,
+          "title": "Gabinet kosmetyczny Afrodyta - Warszawa Centrum",
+          "data_id": "0x471ecb57bda31c6f:0x4df40aebf4cb18c9",
+          "data_cid": "5617126643778394313",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecb57bda31c6f%3A0x4df40aebf4cb18c9&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecb57bda31c6f%3A0x4df40aebf4cb18c9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2312917,
+            "longitude": 21.006197699999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecb57bda31c6f%3A0x4df40aebf4cb18c9%218m2%213d52.2312917%214d21.006197699999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Skin care clinic",
+          "type_id": "skin_care_clinic"
+        },
+        {
+          "position": 34,
+          "title": "Upominki Warszawskie",
+          "data_id": "0x471ecc8c92692e49:0x697f4020df52c972",
+          "data_cid": "7601865205954562418",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x697f4020df52c972&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x697f4020df52c972&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x697f4020df52c972%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Souvenir store",
+          "type_id": "souvenir_store"
+        },
+        {
+          "position": 35,
+          "title": "Kancelaria Prawnicza – Warszawa | Porada prawna | Sporządzenie dokumentu | Reprezentowanie",
+          "data_id": "0x471ecc8c92afe6a5:0x9b462e2af16d0e10",
+          "data_cid": "11188681086222536208",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe6a5%3A0x9b462e2af16d0e10&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe6a5%3A0x9b462e2af16d0e10&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231677999999995,
+            "longitude": 21.005827999999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92afe6a5%3A0x9b462e2af16d0e10%218m2%213d52.231677999999995%214d21.005827999999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Law firm",
+          "type_id": "law_firm"
+        },
+        {
+          "position": 36,
+          "title": "Galeria Studio",
+          "data_id": "0x471ecc8c9c11c871:0x703711b6147c30bb",
+          "data_cid": "8085951129692418235",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9c11c871%3A0x703711b6147c30bb&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9c11c871%3A0x703711b6147c30bb&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.232655099999995,
+            "longitude": 21.007040999999997
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9c11c871%3A0x703711b6147c30bb%218m2%213d52.232655099999995%214d21.007040999999997&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Art gallery",
+          "type_id": "art_gallery"
+        },
+        {
+          "position": 37,
+          "title": "Kwadrat Kultury",
+          "data_id": "0x471ecd3288c169ed:0x5192b8eac3a4c88f",
+          "data_cid": "5877963782116133007",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd3288c169ed%3A0x5192b8eac3a4c88f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd3288c169ed%3A0x5192b8eac3a4c88f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd3288c169ed%3A0x5192b8eac3a4c88f%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Cultural center",
+          "type_id": "cultural_center"
+        },
+        {
+          "position": 38,
+          "title": "Wyższa Szkoła Promocji, Mediów i Show Businessu",
+          "data_id": "0x471eccf39e69dfb5:0xbc78b079b0b49d97",
+          "data_cid": "13580798713037888919",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471eccf39e69dfb5%3A0xbc78b079b0b49d97&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471eccf39e69dfb5%3A0xbc78b079b0b49d97&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231896,
+            "longitude": 21.006162099999997
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471eccf39e69dfb5%3A0xbc78b079b0b49d97%218m2%213d52.231896%214d21.006162099999997&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Graduate school",
+          "type_id": "graduate_school"
+        },
+        {
+          "position": 39,
+          "title": "Copernic Avocats",
+          "data_id": "0x471ecc8c96558aa3:0x2d8cb1c7b7170ae3",
+          "data_cid": "3282193699774597859",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c96558aa3%3A0x2d8cb1c7b7170ae3&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c96558aa3%3A0x2d8cb1c7b7170ae3&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c96558aa3%3A0x2d8cb1c7b7170ae3%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Attorney",
+          "type_id": "lawyer"
+        },
+        {
+          "position": 40,
+          "title": "FunFotos - Zdjęcia pamiątkowe",
+          "data_id": "0x471ecdf0a359b8b1:0xf715a096315d6677",
+          "data_cid": "17804313268812867191",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdf0a359b8b1%3A0xf715a096315d6677&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdf0a359b8b1%3A0xf715a096315d6677&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2319896,
+            "longitude": 21.0067217
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdf0a359b8b1%3A0xf715a096315d6677%218m2%213d52.2319896%214d21.0067217&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Photography service",
+          "type_id": "photography_service"
+        },
+        {
+          "position": 41,
+          "title": "Kiosk POMAR",
+          "data_id": "0x471ecd16c1810091:0x241c8a59c292d4e0",
+          "data_cid": "2602106802834429152",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd16c1810091%3A0x241c8a59c292d4e0&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd16c1810091%3A0x241c8a59c292d4e0&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2290229,
+            "longitude": 21.010312499999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd16c1810091%3A0x241c8a59c292d4e0%218m2%213d52.2290229%214d21.010312499999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Newsstand",
+          "type_id": "newsstand"
+        },
+        {
+          "position": 42,
+          "title": "Warsaw City Hall",
+          "data_id": "0x471ecc8c92692883:0x3d0cf204ff5e632f",
+          "data_cid": "4399157039312298799",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692883%3A0x3d0cf204ff5e632f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692883%3A0x3d0cf204ff5e632f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692883%3A0x3d0cf204ff5e632f%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "City government office",
+          "type_id": "city_government_office"
+        },
+        {
+          "position": 43,
+          "title": "Kancelaria Adwokacka Adwokat Tomasz Damięcki",
+          "data_id": "0x471ecd2f17115bb9:0xab9d2563f276f8d5",
+          "data_cid": "12366081263029123285",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd2f17115bb9%3A0xab9d2563f276f8d5&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd2f17115bb9%3A0xab9d2563f276f8d5&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd2f17115bb9%3A0xab9d2563f276f8d5%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Attorney",
+          "type_id": "lawyer"
+        },
+        {
+          "position": 44,
+          "title": "Bar Ptyś",
+          "data_id": "0x471ecc8c8f6c3f5f:0x93150ae226ed87a6",
+          "data_cid": "10598389264518317990",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c8f6c3f5f%3A0x93150ae226ed87a6&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c8f6c3f5f%3A0x93150ae226ed87a6&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.232257499999996,
+            "longitude": 21.005857
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c8f6c3f5f%3A0x93150ae226ed87a6%218m2%213d52.232257499999996%214d21.005857&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Bar",
+          "type_id": "bar"
+        },
+        {
+          "position": 45,
+          "title": "Polskie Stowarzyszenie Miłośników Kolei - Siedziba główna",
+          "data_id": "0x471ecc8c92692e49:0x25ee40eedbaae81",
+          "data_cid": "170824588655767169",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x25ee40eedbaae81&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x25ee40eedbaae81&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231891100000006,
+            "longitude": 21.0069053
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x25ee40eedbaae81%218m2%213d52.231891100000006%214d21.0069053&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Association / Organization",
+          "type_id": "association_or_organization"
+        },
+        {
+          "position": 46,
+          "title": "PKO Bank Polski S.A.- Bankomat",
+          "data_id": "0x471ecd93542742f5:0x30d9ad4795c6f956",
+          "data_cid": "3520035106733881686",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd93542742f5%3A0x30d9ad4795c6f956&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd93542742f5%3A0x30d9ad4795c6f956&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd93542742f5%3A0x30d9ad4795c6f956%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "ATM",
+          "type_id": "atm"
+        },
+        {
+          "position": 47,
+          "title": "Grupa Aveex",
+          "data_id": "0x471ecc8c9469619f:0x5997d13b535507dc",
+          "data_cid": "6455858643590252508",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0x5997d13b535507dc&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0x5997d13b535507dc&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9469619f%3A0x5997d13b535507dc%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Advertising agency",
+          "type_id": "advertising_agency"
+        },
+        {
+          "position": 48,
+          "title": "Polska Akademia Nauk",
+          "data_id": "0x471ecc8c92692883:0xf3c7cc144a246968",
+          "data_cid": "17566233259097221480",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692883%3A0xf3c7cc144a246968&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692883%3A0xf3c7cc144a246968&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692883%3A0xf3c7cc144a246968%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Association / Organization",
+          "type_id": "association_or_organization"
+        },
+        {
+          "position": 49,
+          "title": "Unia Metropolii Polskich",
+          "data_id": "0x471ecc8c92692e49:0xf61ce5fc490c9769",
+          "data_cid": "17734302304398251881",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xf61ce5fc490c9769&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xf61ce5fc490c9769&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xf61ce5fc490c9769%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Association / Organization",
+          "type_id": "association_or_organization"
+        },
+        {
+          "position": 50,
+          "title": "Adwokat Anna Matelska Kancelaria Adwokacka",
+          "data_id": "0x471ecd33d35bbced:0xf684ee7fc4a72108",
+          "data_cid": "17763585062783623432",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd33d35bbced%3A0xf684ee7fc4a72108&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd33d35bbced%3A0xf684ee7fc4a72108&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2319896,
+            "longitude": 21.0067217
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd33d35bbced%3A0xf684ee7fc4a72108%218m2%213d52.2319896%214d21.0067217&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Law firm",
+          "type_id": "law_firm"
+        },
+        {
+          "position": 51,
+          "title": "Wolves Summit",
+          "data_id": "0x471ecc8c9160a111:0x7ef635a663844162",
+          "data_cid": "9148558681800196450",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9160a111%3A0x7ef635a663844162&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9160a111%3A0x7ef635a663844162&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231906099999996,
+            "longitude": 21.006350899999997
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9160a111%3A0x7ef635a663844162%218m2%213d52.231906099999996%214d21.006350899999997&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Corporate office",
+          "type_id": "corporate_office"
+        },
+        {
+          "position": 52,
+          "title": "Warsaw Tourist Office",
+          "data_id": "0x471ecc68a93ea057:0xc686daf31e6dd252",
+          "data_cid": "14305362004111381074",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc68a93ea057%3A0xc686daf31e6dd252&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc68a93ea057%3A0xc686daf31e6dd252&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231781999999995,
+            "longitude": 21.0061699
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc68a93ea057%3A0xc686daf31e6dd252%218m2%213d52.231781999999995%214d21.0061699&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "District government office",
+          "type_id": "district_government_office"
+        },
+        {
+          "position": 53,
+          "title": "Nobel - gotowe sp. z o.o. z VAT, sp.k., rejestracja spółek S24",
+          "data_id": "0x471ecc8c92692e49:0xf86c6e0220f71f19",
+          "data_cid": "17900803574312935193",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xf86c6e0220f71f19&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xf86c6e0220f71f19&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231669,
+            "longitude": 21.006266999999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xf86c6e0220f71f19%218m2%213d52.231669%214d21.006266999999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Business management consultant",
+          "type_id": "business_management_consultant"
+        },
+        {
+          "position": 54,
+          "title": "Polski Komitet ds. UNESCO",
+          "data_id": "0x471ecc8c92692e49:0x972d5a9172b17831",
+          "data_cid": "10893462654420088881",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x972d5a9172b17831&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x972d5a9172b17831&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x972d5a9172b17831%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Non-governmental organization",
+          "type_id": "non_governmental_organization"
+        },
+        {
+          "position": 55,
+          "title": "Związek Powiatów Polskich",
+          "data_id": "0x471ecc8c92692e49:0x3e92face1bc42ed9",
+          "data_cid": "4508941940087336665",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3e92face1bc42ed9&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3e92face1bc42ed9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x3e92face1bc42ed9%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Non-governmental organization",
+          "type_id": "non_governmental_organization"
+        },
+        {
+          "position": 56,
+          "title": "Service Mastare. Orlicz T.",
+          "data_id": "0x471ecc8c92692e49:0x8d30f0a7d3d9fa91",
+          "data_cid": "10173896161834433169",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x8d30f0a7d3d9fa91&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x8d30f0a7d3d9fa91&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x8d30f0a7d3d9fa91%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Key duplication service",
+          "type_id": "key_duplication_service"
+        },
+        {
+          "position": 57,
+          "title": "Instytutu Nauk Ekonomicznych PAN - Dział Dydaktyczny",
+          "data_id": "0x471ecc8c9328c459:0x16ae445f029f87f4",
+          "data_cid": "1634318889638660084",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9328c459%3A0x16ae445f029f87f4&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9328c459%3A0x16ae445f029f87f4&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316371,
+            "longitude": 21.006031
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9328c459%3A0x16ae445f029f87f4%218m2%213d52.2316371%214d21.006031&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Research institute",
+          "type_id": "research_institute"
+        },
+        {
+          "position": 58,
+          "title": "DHL Express Service Point (Inmedio)",
+          "data_id": "0x471ecdf97a05e49d:0x28d36323f203d317",
+          "data_cid": "2941803987638407959",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdf97a05e49d%3A0x28d36323f203d317&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdf97a05e49d%3A0x28d36323f203d317&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdf97a05e49d%3A0x28d36323f203d317%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Courier service",
+          "type_id": "courier_service"
+        },
+        {
+          "position": 59,
+          "title": "Centrum Rozwiązywania Problemów Społecznych",
+          "data_id": "0x471ecc8c92692e49:0xc4f370290098d94c",
+          "data_cid": "14191810172180552012",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xc4f370290098d94c&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xc4f370290098d94c&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231868000000006,
+            "longitude": 21.006947000000004
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xc4f370290098d94c%218m2%213d52.231868000000006%214d21.006947000000004&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Learning center",
+          "type_id": "learning_center"
+        },
+        {
+          "position": 60,
+          "title": "Bogdan Golak",
+          "data_id": "0x471eceb70f67ae79:0x186c0a4657ffd00c",
+          "data_cid": "1759792851635392524",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471eceb70f67ae79%3A0x186c0a4657ffd00c&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471eceb70f67ae79%3A0x186c0a4657ffd00c&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231755,
+            "longitude": 21.006482
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471eceb70f67ae79%3A0x186c0a4657ffd00c%218m2%213d52.231755%214d21.006482&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Marketing consultant",
+          "type_id": "marketing_consultant"
+        },
+        {
+          "position": 61,
+          "title": "Kulturpalatset",
+          "data_id": "0x471ecc8c927105eb:0xba86e986ab2cf75c",
+          "data_cid": "13440686902540564316",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c927105eb%3A0xba86e986ab2cf75c&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c927105eb%3A0xba86e986ab2cf75c&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2318474,
+            "longitude": 21.0059452
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c927105eb%3A0xba86e986ab2cf75c%218m2%213d52.2318474%214d21.0059452&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Condominium complex",
+          "type_id": "condominium_complex"
+        },
+        {
+          "position": 62,
+          "title": "KLICK&DRUM",
+          "data_id": "0x471ecb1c65d32bf1:0xe9686529dcee2c16",
+          "data_cid": "16818804038889778198",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecb1c65d32bf1%3A0xe9686529dcee2c16&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecb1c65d32bf1%3A0xe9686529dcee2c16&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231837999999996,
+            "longitude": 21.005995000000002
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecb1c65d32bf1%3A0xe9686529dcee2c16%218m2%213d52.231837999999996%214d21.005995000000002&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Music school",
+          "type_id": "music_school"
+        },
+        {
+          "position": 63,
+          "title": "Dermamedic Palace",
+          "data_id": "0x471ecc8cea3972ff:0x35abfa0fea8b859d",
+          "data_cid": "3867459651294168477",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8cea3972ff%3A0x35abfa0fea8b859d&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8cea3972ff%3A0x35abfa0fea8b859d&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231059099999996,
+            "longitude": 21.0060497
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8cea3972ff%3A0x35abfa0fea8b859d%218m2%213d52.231059099999996%214d21.0060497&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Medical clinic",
+          "type_id": "medical_clinic"
+        },
+        {
+          "position": 64,
+          "title": "ATM of Bank Pekao SA",
+          "data_id": "0x471ecc8c92692e49:0xddd76c964a75dceb",
+          "data_cid": "15985364795124997355",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xddd76c964a75dceb&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xddd76c964a75dceb&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2318381,
+            "longitude": 21.005994500000003
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xddd76c964a75dceb%218m2%213d52.2318381%214d21.005994500000003&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "ATM",
+          "type_id": "atm"
+        },
+        {
+          "position": 65,
+          "title": "KONSULT Ekspert Kredytowy (Warszawa)",
+          "data_id": "0x471ecdc18fb9d2a9:0x38b5d2f056ea4e42",
+          "data_cid": "4086404166600773186",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdc18fb9d2a9%3A0x38b5d2f056ea4e42&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdc18fb9d2a9%3A0x38b5d2f056ea4e42&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2320747,
+            "longitude": 21.0059777
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdc18fb9d2a9%3A0x38b5d2f056ea4e42%218m2%213d52.2320747%214d21.0059777&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Mortgage broker",
+          "type_id": "mortgage_broker"
+        },
+        {
+          "position": 66,
+          "title": "The Quality Of Life. Szkolenia, doradztwo",
+          "data_id": "0x471ecc8c92692e49:0x3bff6fe087b1c2f9",
+          "data_cid": "4323297177438896889",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3bff6fe087b1c2f9&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3bff6fe087b1c2f9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231868399999996,
+            "longitude": 21.006947000000004
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x3bff6fe087b1c2f9%218m2%213d52.231868399999996%214d21.006947000000004&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Point of interest",
+          "type_id": "establishment_poi"
+        },
+        {
+          "position": 67,
+          "title": "Radio Pałacc",
+          "data_id": "0x471ecd88c44b911b:0x33b1b297fc48d03f",
+          "data_cid": "3724954732654547007",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd88c44b911b%3A0x33b1b297fc48d03f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd88c44b911b%3A0x33b1b297fc48d03f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd88c44b911b%3A0x33b1b297fc48d03f%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Radio broadcaster",
+          "type_id": "radio_broadcaster"
+        },
+        {
+          "position": 68,
+          "title": "Inmedio",
+          "data_id": "0x471ecd2183b7efa7:0x6aecab6e20e473e7",
+          "data_cid": "7704721552010671079",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd2183b7efa7%3A0x6aecab6e20e473e7&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd2183b7efa7%3A0x6aecab6e20e473e7&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2319262,
+            "longitude": 21.0065532
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd2183b7efa7%3A0x6aecab6e20e473e7%218m2%213d52.2319262%214d21.0065532&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Magazine store",
+          "type_id": "magazine_store"
+        },
+        {
+          "position": 69,
+          "title": "Centrum Sztuki. Studio im. S.I. Witkiewicza",
+          "data_id": "0x471ecc8c92692e49:0xd098192ac5e4e415",
+          "data_cid": "15030791427848463381",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xd098192ac5e4e415&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xd098192ac5e4e415&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2325571,
+            "longitude": 21.006931899999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xd098192ac5e4e415%218m2%213d52.2325571%214d21.006931899999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Art center",
+          "type_id": "art_center"
+        },
+        {
+          "position": 70,
+          "title": "Poczta Polska",
+          "data_id": "0x471ecdb8a5374cfb:0xe134b71474756a05",
+          "data_cid": "16227796655803820549",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecdb8a5374cfb%3A0xe134b71474756a05&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecdb8a5374cfb%3A0xe134b71474756a05&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecdb8a5374cfb%3A0xe134b71474756a05%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Post office",
+          "type_id": "post_office"
+        },
+        {
+          "position": 71,
+          "title": "Whizz Ninja",
+          "data_id": "0x47169f16ff604511:0xcab817471a53a4c2",
+          "data_cid": "14607450985528009922",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x47169f16ff604511%3A0xcab817471a53a4c2&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x47169f16ff604511%3A0xcab817471a53a4c2&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231677999999995,
+            "longitude": 21.005827999999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x47169f16ff604511%3A0xcab817471a53a4c2%218m2%213d52.231677999999995%214d21.005827999999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Marketing agency",
+          "type_id": "marketing_agency"
+        },
+        {
+          "position": 72,
+          "title": "Best-Camp",
+          "data_id": "0x471ecc8c92afe43f:0x4878ba9a3ad87ea1",
+          "data_cid": "5222128939511086753",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0x4878ba9a3ad87ea1&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0x4878ba9a3ad87ea1&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92afe43f%3A0x4878ba9a3ad87ea1%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Point of interest",
+          "type_id": "establishment_poi"
+        },
+        {
+          "position": 73,
+          "title": "Ventus Communications Sp. z o.o.",
+          "data_id": "0x471ecc8c92692e49:0x991df5c9c8895648",
+          "data_cid": "11033244909129258568",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x991df5c9c8895648&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x991df5c9c8895648&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x991df5c9c8895648%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Point of interest",
+          "type_id": "establishment_poi"
+        },
+        {
+          "position": 74,
+          "title": "Eway Charging Station",
+          "data_id": "0x471ecc8c96e51875:0x80d3d51d9495fc23",
+          "data_cid": "9282997579964349475",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c96e51875%3A0x80d3d51d9495fc23&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c96e51875%3A0x80d3d51d9495fc23&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231958,
+            "longitude": 21.006725799999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c96e51875%3A0x80d3d51d9495fc23%218m2%213d52.231958%214d21.006725799999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Electric vehicle charging station",
+          "type_id": "electric_vehicle_charging_station"
+        },
+        {
+          "position": 75,
+          "title": "ComBeeNut",
+          "data_id": "0x471ecc8c92692fc9:0x6846b8824d87125d",
+          "data_cid": "7513895898100208221",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692fc9%3A0x6846b8824d87125d&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692fc9%3A0x6846b8824d87125d&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2318381,
+            "longitude": 21.005995000000002
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692fc9%3A0x6846b8824d87125d%218m2%213d52.2318381%214d21.005995000000002&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Honey farm",
+          "type_id": "honey_farm"
+        },
+        {
+          "position": 76,
+          "title": "Związek Zawodowy Muzyków RP",
+          "data_id": "0x471ecc8c92afe415:0x9b83323e3a1079d1",
+          "data_cid": "11205855540671445457",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe415%3A0x9b83323e3a1079d1&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe415%3A0x9b83323e3a1079d1&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058282
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92afe415%3A0x9b83323e3a1079d1%218m2%213d52.2316784%214d21.0058282&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Musical club",
+          "type_id": "musical_club"
+        },
+        {
+          "position": 77,
+          "title": "MontazAnten Autoryzowany Serwis Canal+",
+          "data_id": "0x471ecc8c9a09d1d1:0xc5dc4904f232ba33",
+          "data_cid": "14257350805940255283",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9a09d1d1%3A0xc5dc4904f232ba33&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9a09d1d1%3A0xc5dc4904f232ba33&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2321648,
+            "longitude": 21.006523299999998
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9a09d1d1%3A0xc5dc4904f232ba33%218m2%213d52.2321648%214d21.006523299999998&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Antenna service",
+          "type_id": "aerial_installation_service"
+        },
+        {
+          "position": 78,
+          "title": "Pałac Młodzieży Dział Elektroniki",
+          "data_id": "0x471ecc8c92692e49:0x3d199c9eee1f52e7",
+          "data_cid": "4402722317145166567",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3d199c9eee1f52e7&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3d199c9eee1f52e7&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x3d199c9eee1f52e7%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Point of interest",
+          "type_id": "establishment_poi"
+        },
+        {
+          "position": 79,
+          "title": "Towarzystwo Wiedzy Powszechnej. Zarząd główny",
+          "data_id": "0x471ecc8c92692e49:0x64a0769d86b5a1a7",
+          "data_cid": "7250925819008491943",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x64a0769d86b5a1a7&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x64a0769d86b5a1a7&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x64a0769d86b5a1a7%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Educational institution",
+          "type_id": "educational_institution"
+        },
+        {
+          "position": 80,
+          "title": "Wedding Photography Warsaw - Studio",
+          "data_id": "0x471ecc8c92692e49:0x17e87e6c72ab0d1",
+          "data_cid": "107672866357162193",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x17e87e6c72ab0d1&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x17e87e6c72ab0d1&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x17e87e6c72ab0d1%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Photographer",
+          "type_id": "photographer"
+        },
+        {
+          "position": 81,
+          "title": "Bratnia Szatnia",
+          "data_id": "0x471ecc8c92692e49:0x19913d5c812b19c5",
+          "data_cid": "1842321190084614597",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x19913d5c812b19c5&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x19913d5c812b19c5&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x19913d5c812b19c5%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "DJ service",
+          "type_id": "dj"
+        },
+        {
+          "position": 82,
+          "title": "1007 Drobiazgów. Kiosk z art. tytoniowymi. Kostyra M.",
+          "data_id": "0x471ecc8cbd399ef1:0xfde033de062ccb97",
+          "data_cid": "18293678715058310039",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8cbd399ef1%3A0xfde033de062ccb97&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8cbd399ef1%3A0xfde033de062ccb97&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231868399999996,
+            "longitude": 21.006947000000004
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8cbd399ef1%3A0xfde033de062ccb97%218m2%213d52.231868399999996%214d21.006947000000004&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Tobacco shop",
+          "type_id": "tobacco_shop"
+        },
+        {
+          "position": 83,
+          "title": "Mestra Sp. z o.o. Biuro promocji i strategii rozwoju",
+          "data_id": "0x471ecc8c92692e49:0xa571b93a540e756e",
+          "data_cid": "11921513348795889006",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xa571b93a540e756e&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xa571b93a540e756e&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xa571b93a540e756e%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Advertising agency",
+          "type_id": "advertising_agency"
+        },
+        {
+          "position": 84,
+          "title": "Sklep Mennicy",
+          "data_id": "0x471ecd3d594f165f:0xe65e7359c28c1729",
+          "data_cid": "16599832105887471401",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd3d594f165f%3A0xe65e7359c28c1729&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd3d594f165f%3A0xe65e7359c28c1729&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd3d594f165f%3A0xe65e7359c28c1729%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Corporate office",
+          "type_id": "corporate_office"
+        },
+        {
+          "position": 85,
+          "title": "KTM Sp. z o.o.",
+          "data_id": "0x471ecc8c92692e49:0x49b08314f0de6cd5",
+          "data_cid": "5309888086633508053",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x49b08314f0de6cd5&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x49b08314f0de6cd5&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x49b08314f0de6cd5%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Employment agency",
+          "type_id": "employment_agency"
+        },
+        {
+          "position": 86,
+          "title": "Strych Polska",
+          "data_id": "0x471f5a4de9f5bb87:0x749f3b2533f3c8c3",
+          "data_cid": "8403500460668078275",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471f5a4de9f5bb87%3A0x749f3b2533f3c8c3&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471f5a4de9f5bb87%3A0x749f3b2533f3c8c3&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.231778,
+            "longitude": 21.006162
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471f5a4de9f5bb87%3A0x749f3b2533f3c8c3%218m2%213d52.231778%214d21.006162&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Advertising agency",
+          "type_id": "advertising_agency"
+        },
+        {
+          "position": 87,
+          "title": "Organizacja i Kierowanie. Redakcja",
+          "data_id": "0x471ecc8c92692e49:0xde4f666c3671d8a9",
+          "data_cid": "16019135014536075433",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xde4f666c3671d8a9&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xde4f666c3671d8a9&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xde4f666c3671d8a9%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Publisher",
+          "type_id": "publisher"
+        },
+        {
+          "position": 88,
+          "title": "Intercomfort",
+          "data_id": "0x471ecc8c9469619f:0x963847db196fdf69",
+          "data_cid": "10824480710735159145",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0x963847db196fdf69&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c9469619f%3A0x963847db196fdf69&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317554,
+            "longitude": 21.0064817
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c9469619f%3A0x963847db196fdf69%218m2%213d52.2317554%214d21.0064817&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Office furniture store",
+          "type_id": "office_furniture_store"
+        },
+        {
+          "position": 89,
+          "title": "Catering Studio",
+          "data_id": "0x471ecd1ccb026baf:0xc54d3fe1c1266dd1",
+          "data_cid": "14217089837519236561",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd1ccb026baf%3A0xc54d3fe1c1266dd1&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd1ccb026baf%3A0xc54d3fe1c1266dd1&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd1ccb026baf%3A0xc54d3fe1c1266dd1%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Caterer",
+          "type_id": "catering_service"
+        },
+        {
+          "position": 90,
+          "title": "Brokers Polska Sp. z o.o.",
+          "data_id": "0x471ecc8c92afe43f:0xbbb18068ad468489",
+          "data_cid": "13524732343042344073",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0xbbb18068ad468489&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92afe43f%3A0xbbb18068ad468489&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2316784,
+            "longitude": 21.0058281
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92afe43f%3A0xbbb18068ad468489%218m2%213d52.2316784%214d21.0058281&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Software company",
+          "type_id": "software_company"
+        },
+        {
+          "position": 91,
+          "title": "Akademia. Club",
+          "data_id": "0x471ecc8c92692e49:0xb91a8069bc2417e0",
+          "data_cid": "13338114438027548640",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xb91a8069bc2417e0&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0xb91a8069bc2417e0&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0xb91a8069bc2417e0%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Club",
+          "type_id": "club"
+        },
+        {
+          "position": 92,
+          "title": "Radscan Intervex Polska Sp. z o.o.",
+          "data_id": "0x471ecc8c92692e49:0x2aea2062392c49d4",
+          "data_cid": "3092319700381354452",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x2aea2062392c49d4&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x2aea2062392c49d4&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x2aea2062392c49d4%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Environmental protection organization",
+          "type_id": "environmental_protection_organization"
+        },
+        {
+          "position": 93,
+          "title": "CEE Property Group",
+          "data_id": "0x471ecc8c92692e49:0x3f76f98e542a3026",
+          "data_cid": "4573116861334040614",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3f76f98e542a3026&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x3f76f98e542a3026&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x3f76f98e542a3026%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Real estate agency",
+          "type_id": "real_estate_agency"
+        },
+        {
+          "position": 94,
+          "title": "Million Wonders",
+          "data_id": "0x471ecd227577d719:0xf56f33f67950102b",
+          "data_cid": "17685411395397488683",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd227577d719%3A0xf56f33f67950102b&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd227577d719%3A0xf56f33f67950102b&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2314449,
+            "longitude": 21.0062821
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd227577d719%3A0xf56f33f67950102b%218m2%213d52.2314449%214d21.0062821&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Clothing store",
+          "type_id": "clothing_store"
+        },
+        {
+          "position": 95,
+          "title": "Leon Witas Sp. z o.o. biuro handlowe Warszawa",
+          "data_id": "0x471ecd468533a239:0xdee5ff0591ce8cb6",
+          "data_cid": "16061524045472894134",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd468533a239%3A0xdee5ff0591ce8cb6&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd468533a239%3A0xdee5ff0591ce8cb6&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2319896,
+            "longitude": 21.0067217
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd468533a239%3A0xdee5ff0591ce8cb6%218m2%213d52.2319896%214d21.0067217&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Interior fitting contractor",
+          "type_id": "interior_fitting_contractor"
+        },
+        {
+          "position": 96,
+          "title": "Alda Spa. Instytut Kosmetyki Ciała",
+          "data_id": "0x471ecc8c92692e49:0x931313625485672f",
+          "data_cid": "10597835661178660655",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x931313625485672f&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c92692e49%3A0x931313625485672f&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2317616,
+            "longitude": 21.0061014
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c92692e49%3A0x931313625485672f%218m2%213d52.2317616%214d21.0061014&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Skin care clinic",
+          "type_id": "skin_care_clinic"
+        },
+        {
+          "position": 97,
+          "title": "Milonga Warszawska - Klub Tanga",
+          "data_id": "0x471ecd33575651e7:0x87dfa5e4c1d8b528",
+          "data_cid": "9790726516850079016",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecd33575651e7%3A0x87dfa5e4c1d8b528&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecd33575651e7%3A0x87dfa5e4c1d8b528&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2319896,
+            "longitude": 21.0067217
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecd33575651e7%3A0x87dfa5e4c1d8b528%218m2%213d52.2319896%214d21.0067217&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "Dance club",
+          "type_id": "dance_club"
+        },
+        {
+          "position": 98,
+          "title": "Wyższa Szkoła Komunikowania, Politologii i Stosunków Międzynarodowych",
+          "data_id": "0x471ecc8c8d89b14b:0x5f9392852bfbf086",
+          "data_cid": "6887009355845857414",
+          "reviews_link": "https://serpapi.com/search.json?data_id=0x471ecc8c8d89b14b%3A0x5f9392852bfbf086&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+          "photos_link": "https://serpapi.com/search.json?data_id=0x471ecc8c8d89b14b%3A0x5f9392852bfbf086&engine=google_maps_photos&hl=en",
+          "gps_coordinates": {
+            "latitude": 52.2318563,
+            "longitude": 21.005893
+          },
+          "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x471ecc8c8d89b14b%3A0x5f9392852bfbf086%218m2%213d52.2318563%214d21.005893&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+          "type": "School",
+          "type_id": "school"
+        }
+      ]
+    },
+    "user_reviews": {
+      "most_relevant": [
+        {
+          "username": "elaf",
+          "rating": 5,
+          "contributor_id": "111130598466063643381",
+          "description": "A must-do in Warsaw! We bought our tickets 2 hours prior and went in the evening when the sun started setting and the view was breathtaking! We stayed for a while until it was completely dark out and the views were just as beautiful. Highly recommend if you’re visiting Warsaw. The tickets are not so expensive either - 28 Złoty per person (23 for students).",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUNndW8tc2JBEAE!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgMCguo-sbA%7CCgwImZrHvQYQ8LGPyAI%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIKIblSjyZM1btbm30dx-ZqTRzHi_koxdbe-gPGBAIW6dXtppOUENezVxRK8-veyN41W0xNqrk1gDcK_Q5SzknD_fNTizH6L0hukV5wyz0UN5jZ55-526zoY6ULBCTg_tWwNFj7EA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIAMS8ZuOc3WRugnCYwqGEEvym0SKL6s_rcjz0H2VUu5DU-Vpxs8gCO9WjgjkLRzchBB5fOe13YIWyr7TUjxzrOwXENsJmceObi0FuFykiKkJlqX8yf0Zedg6ueV-qviL4n7Hp4"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIUlqDuYLRk9wpxsK9oYvS7aHCe8AypwSnT4YLF4shcQhvCGqdKUBv9_HRdo4-pQXOEUSi2Vl1FjySzMQzEjEKGXUvbuC5gUF1e0PDVpk4DMVmDm-gjpvhx3EKl394At3NEtQMlrg"
+            }
+          ],
+          "date": "2 weeks ago"
+        },
+        {
+          "username": "Daniele Evangelista",
+          "rating": 5,
+          "contributor_id": "112779213528893181550",
+          "description": "The Palace of Culture and Science in Warsaw offers an absolutely breathtaking view from the top! Standing at the observation deck, you get a panoramic view of the entire city, and it’s simply magnificent. The combination of modern skyscrapers and historic architecture creates a stunning contrast that you can’t miss. It’s a must-visit spot, especially if you want to truly appreciate the beauty of Warsaw from above. The experience is unforgettable and worth every moment!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNfa3NUN3BRRRAB!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgIC_ksT7pQE%7CCgwIycuZvAYQuMSFmgM%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLvFWahevqf0monFwc-kWLjdeitSEoEOAvgFd6mWEieCEAKO0pGn67kEBsT_4IV5H7qaz-tB7m0hXSMMAbonNLKZuj1-NeRErSZb-7M9zZLdqIz08zwNYGROd7kH3U5DN3cZwCh"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJL1AO8z2Zy90rajci1t5mv2B6pKlQZRQGIHQEHwemm_cJgZWflp8S9OTCFvtUGI4FL_tqLFrQ-amMHa9h7n5GlXkP16rNuhvbM2arSovqh4nv5B9uTqgeZLw6rAss6097VFpB9T"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKB8sk82h5mbBv4e9eX_OG8Q2z9N3NVYvuclgg02nid3NqyunSLfdoiWd1q20563xrNmNZncmU0nwDAAI7iYB5_yvUIVj0g3udz4o5b4BElzWR8kTzUO0pa-FfZWCXmmwBJ-nkC"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKQBtIefcXkBuR5iKBAbawUn443z4-CxKa_GDakHBIZuQXCkWB2EH2v_OV5Ggwoy-dnQCTRQTCA7Bp1ajRVAoyAlg2sajp_O5nBmXXpnVM5iloreQFSnrb8s9ZNV3BmhRxXy195"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJfbg4orgwuQJb1Jbzpvb8fuiJmny5C4cssjX09OvQQZb7-2zLaoSYEL3zUGTcilN651nd-RhU_SwrjUnC6HkCITgUIL5ceHhpTnIYXc5Xw78ak_iGfh6Y9IlTu5MYa_zc0lUP9"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJ-P6HDTEmcoxparPc8SaacuRnyheM8geagGBKOfm_-SzxE__CA0Q3pK9qzCEOa_TIMaGqlJ6_Ok2s9xnn4pFi0i0GVxs-YaYKgG0aK3LvWNfXgj5IbBAypFpuBWs1zBk95U2nB"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLQunzz8ITHRLjVgtk_ycwK4l-o-ZkvKsXRTLmh_umFdA7UYEL-QfEelcNDtEIPyMmheXJPV9p-1HueVf1Kgxys8kXY2DDfofwbXXrP3HvTV8lJgxyZeQsgmEE7olqO_AQYWamdvw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLgqzUc5dUiCqXkOizX9-Lptfkcc1ddHdppjglfeLudWPuOqfEe4u9Yu-Pw_vL7o9yWwJ4M_FF6sixjJmHlc4DdKpe0LWecjWzfzAOuRGT1JBEFBdZctNv198PF5SvQ3LUJCUU"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJGphj-uWbNEjy84S8zyzuynfH2BQENIchlt4_c1w3R4aYRPvJnQeDjawXEjS87YStNrqFEp9JQ9-Q2XOdeDIgLWTbb0RhcN_iflov02gdNeEcqFDfS_UJhNRVeetwx9w-y0kdE"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKfymc6kG6tSlH_HtfsOUTtcQmnO6ioL_v5uToFesAhMgx8QpuTDkTY51j875nJEEc0IQrIt8QyPAl9j6FSKBF3Z0ePWK2xFgDVcRbIb_A-vHhfJOFWrErOp4StmdVTL8M3SppN"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIOtfUl3ara3CIN-ENpA7dKTg4-_Y8clW1tg1shGlPz11TQHoI9Ura1V3EarK1HjZUhu52G9QRnj6QkMaYLKT_BLNxKC20GCiRAdsxwO5frNNAFAULMuv1c8fPQmfB0n6vti1Ca"
+            }
+          ],
+          "date": "a month ago"
+        },
+        {
+          "username": "Maria Karamanou",
+          "rating": 4,
+          "contributor_id": "113408337239832484215",
+          "description": "The Palace of Culture and Science was a great experience! There were so many interesting things to see and explore, making it a fascinating visit. The entrance fee was very affordable, which added to the value of the experience.\n\nHowever, we were a bit disappointed that we couldn’t go to the top to enjoy the view, which we had been looking forward to. That said, the overall experience was still really enjoyable and well worth the visit.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN2ODRDTjFBRRAB!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgICv84CN1AE%7CCgwIp432ugYQ-JzajwE%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLg5_X11NtK4yNJZ98SSg_ubbGpTIAeKXyXEw1yjRWMtSKAe06l9mYlz45fHvjiXRSXsi6ZtOwg0W6VXXcgn8Fef6qhAfiDi9eA0ejb2SzAA5UpgNxzHjPQAaHJbNtCccJNLPTX"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLOT7W9hkKwGB_hpgahLOJ9tFultqlkpeX8zppVC-U-J0byus8It3AkmM2sQ-PMyyO97mZTkIV7JUkarOI0vx6yuRZAxXW2Tl6cErIVtrBcc_TLV44TGineF3Zmc4dzIEt3-tsBZA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJso-lKwf1JGcwPayd9CzoTOOI9I4jSGKRc7_sXRFgh09TY-aaM306WKWQ7JfQNBhVn60WpXkRYt2AP-RM0FSbBKGdoE1z9msG344FM2Q-CI8zeuewyiRozWq6wKkwHBZ896u2u"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJ2VHapUh4tdO2VBDS4o_LU5SCckIJ3k7GfJEDVLMKAPkbzmqYu6FhYYcam9xxNqwxD2yKkTTpedMwfXgVFT1b8W_bzsGKHxPPH9ICFi1uVxgzsknwvK578HrndETP4AQ_IksnIBg"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJRGjKpYu-3Sn7VNA4_R11f-pGKBuOLYJfwhq6mFqgw8cA4Pa3hVEaBjJoS322CnGcR7orY7ATIqS3Q_rtEZSYtA04AmYs2MmeKGLDtw0zyfhYuUbGmB9e_ScNdaO2e4Ut_duQ"
+            }
+          ],
+          "date": "2 months ago"
+        },
+        {
+          "username": "Andrew Zalatar",
+          "rating": 2,
+          "contributor_id": "115408667832685876923",
+          "description": "The Palace of Culture and Science in Warsaw is a stunning example of Soviet-era monumental architecture. Built with grandeur and the intention to impress, it stands as a symbol of power and ambition. However, its current state feels as if it has been passed down to distant relatives from the countryside – left with a grand apartment from a professor and now trying to make the most of it, but only on their own level. The once majestic hall with its grand chandeliers and marble ceilings now hosts events like a “Japanese Culture Festival” – but looking at the pictures, only about 5% of it feels genuinely Japanese, mostly limited to Japanese alcohol and some “Japanese” toys made in China. It’s sad to see such an impressive space being used in this way, but the place is still filled with visitors, all eating and enjoying themselves. This is the culture now, and unfortunately, the palace reflects that.\n\nP.S. A tip for those wanting to visit the observation deck: the line for online tickets is always much shorter. You can simply buy your ticket on your phone while waiting. Enjoy!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNYcExlTFB3EAE!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgICXpLeLPw%7CCgsI_PuuuAYQiOTjcQ%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJK1vHcgDSWDpVn5OLfhwCw0XoFZqsAm4DSuCTSOJ9bog_WLV_JCN6M4GXDjgR16y4G8K4ZhGEI1y-55ag2fzwc9ToknSV-6O7W2Z-V5U_rJ3FF2JyDvgzqqJAKbo0hJ3vR2INLzWQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKen7M4gaxakAQFysvFdIHLWkfTbM5fMqOShsCon-79xOkKzoM6rz2iOsHn0w5frhjaJYpHX1qZw04iA1j3VgGB9Ingc9vRB11EKEjnK5giedDQ_LhGmcy2lIOCHGd1TUHYHg"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJL8iBsHQ1lLcPY6mANpsqEg3HhAGGBZcx8R2P82_-EKNIg1c00Gk_3782tHbfjkcQUf3YUt9U-CU2YPLRy8Jtb6_OisVuQ4QxUh5mYhlmOBgApMwMMt6ecogxNsdqPM4gNQjpLgfQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJ6gD6bB92_NY2RElNKyDDEoNd-pnQwiUb_a56GpI6akin_A2Xlsi8VcrOM67aH36gf8rRyzXtiPNAip7p6K8ua0KwfoyIx56H23sQ6qD0NxvUnba5uRHTNHZWTCYgImZFOjJZL"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJNXKL1EpoEnul8CD21nYXQ_Q7C09WnLZNJohu6RIV-vIkXYbEfJGe3MzAcGytbl3N7En2oO5HDJmARjgQ9KendxF9GJQpcI-a9vsX5ABv0PW6ZQvIBdDGYLwQLOoIRP8nXcXOgmQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJxRJN0l7ihULmgIj_vpZnYSd83ELXqKVhDxAoYcOu1-VpzDJK5m2A_fZ4tj4kq9uNHD2llEnPFziFXId6at4p7zwPsT8HmIBeHqjbu9r6vSMCJbhFzwUS4I8QXwrivox1dl7ar"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJw9WoJu0fI0gf-xdAeC1KVXryeezpidHUMl7iyEGGSewUqhsWM2MZHSTLdhm_GB4dBnmiT5OTR3Tw2mA7U61KXEzA4QSZsck61ixW23P4kaA_y-5CkdW0B2USl6A4aivezhdSQMw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJK111CBy9kR96B34LqJbdB8Wk0cjWOrZj9SfO8G3PwvnRfXa1e-o24YNFoLJZFrEV0fDEdHh6Zwy5ScRiZ0BYfOItadnFhOoaoxf3lh7Ntgt-ptLD2CDuZnkBkvvnLwF6z3QyVD"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJQ6g5O_LW0Ac1aww5lJQDET_5YwpeT0OLIeSuFz4hEfoxmK2AQ1ry8RE-Q7zedYsjdghDyYikXy2pCZxR5gCy1-Qd9_AstbPgmZxy4WoyEUsDduHnOhO3MxChZS44BNtZ_0moILw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKv_d0BcRO9bIuC8TRInax6eto2KJXF1DotsNeH5JFaCiD96PyWNubgZuqQOAc0ysbM_dhUeuFerOKsxSNZDfvPQDQPYmS-SAwKjTP1xCTlwQW5g-0peHjUqKaDaSv3EWcM7MHL"
+            }
+          ],
+          "date": "4 months ago"
+        },
+        {
+          "username": "Nika Pascaru",
+          "rating": 5,
+          "contributor_id": "117970909237994537029",
+          "description": "The Palace of Culture and Science in Warsaw offers a breathtaking panoramic view of the city. While the experience is remarkable, be prepared for windy and cold conditions at the top. Despite the chill, it’s a must-visit place.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURmdDhXbDVRRRAB!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgIDft8Wl5QE%7CCgwIu9-GvAYQ0MWRmAI%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKnfNHHJ-C9b99j8zd6uK_ZSVwp_PyiFvhYKTR0LzpzHT3PtxwyQNsk_6uoeNHGHFLfZPfhRpIOW8nNhmBUP9LmaFglxiyet5Kyou2VL2immrqJU04qm9hM2M3EEv0NCenX0m5O"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJK32VWKb9-UiYxcN8T_hLiDGJp1Fr_VCKLTQrzpYVfsQ7a3U1WT05knR1a5CjTj0bCCThmy346cZjeE9FchQE_6r9bprIblKWG7tOAVhLPgGBHvEMSbHjcjzWgXBu3FFF_7CiSSnw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJW46n-kVmnECljMyh39yF7Pvvp-f_xvABVrfRgViAyzjl7H3RIjGFuL_4KT3u6hqrjhxxj3i10ZKtDEJzPOvnJZ7os0N0GCHF0SndkwJiBAoW9pNRW0PmiBCHdtSRLyFpRPcmK"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJK6hbwViiUn8QEA0B82YSYuGfv5LEMmM8Q6oY_gG6OtoIMsQVHC3qxcUajkWvIjTuxvNRiGd0gt-oDUMVLClajJTx3FgZC_QHJqj9vzNV8tjxRWfkG1uiuc-0FsYhzlnkL9u5BJ_Q"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKpVfUI7UdL1wXkpGRWo4HaoiCxUwrmPZt-qMhuaRMpOw9CUSBHITUhoBdis6pjBIdF4SOb7P7LYppfBxtrvUijAbSSzMAuJHNbu8z2YjahJThKX3SKPXWZRWzgdViROiABw8lL"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJjSl1GcX3UzOGxXg7nnD9jSP8tWOLoP1T4zEgntFhjzcBAv1HL4eWUYIKtwUuYJH_TejDmHTjdAUw4UlDBj-mFPZbUEDSmrZLgayTa3UkHz1WkKSHYfje1qSG1XxciRrAv4LbM"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLwe5Fy7bTTzXQOZ-ItQ8vhGpz1o-vXt0dX4RhWlcvEkTXyIKbJ9sFPfQcGuV5RRAs1KTia3b7ITgjW5VR_KGiEyt-COCHNsQRF67QLeOlLQ6SlANM5gKwZITkqfTeE1yMuNnEM"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLfcBtqgOR7xh2ej5_G1RgHJVWF3xpzQyU0gpuuSyfM3EXcol8ODCApnvtOvu0SEYgtYyw1KbQlS5c9uAM9Qi79hHcuEt_2bJ3qEWVsS0TyEN1cwBMXp9rqU1m-2W_c2RCe1nbJ"
+            }
+          ],
+          "date": "a month ago"
+        },
+        {
+          "username": "Everywhere With Erika",
+          "rating": 5,
+          "contributor_id": "113772303788344350634",
+          "description": "It’s truly a beautiful place in the day and at night. Viewing Warsaw skyline from the observation deck is a must. It’s on the 30th floor. You get a 360 view of city. Just know it stays packed with people. Make sure you walk around the building to see the giant statues.",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURYOVpXM1lREAE!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgIDX9ZW3YQ%7CCgsIwvqFuQYQ4NyXMA%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLLidzUPJOTthXYUKkFhd_GIdCsQePxbDZ9n6WWfNwBlBLXzl6ZlgN-E6NT4CRldxFGd23OiKJVeFzbOUcKeq-6srOP7aNe_ImHV7OOr4aDej25bzr9-vwQgCqSxh7yLWjN5ype"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKzSYDrpnF0C41ATNjvQvriuXkzEpj-GZf8F7C0NDXAgNck59Qg5Zyrbb-HXTz5UhrfbkAMKhJnJvyfRUZQRJKAcAO20A4CiO8EBUiKG4yn0y3ngXJMWExfmC7pFaLhRioFPXw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKfhK0JnCS35kspo_t13SZ9rUcHKF6RUpFgI9RHAwtEzfTGCzaILUWDEH1ItdxzxYKyEBwF-YP2J5_NJYIbDukHffAJCztPvVKvZKpLdBBEsr_p2ic8hQzY0M49KpbXVK4G7EL22A"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIGtmbM2Pl4otAynJuiyOnAFA2e8tqttQSHpD99SBw3039fJTONR-l2_XadbXL3x4NMcCiky12MiFEzwF0xUIHU17TmY0VLDEFocOrKoD8YsTTCeaqA4vTUk8DxOmfiW87V4q2g"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKlb56_YMZ44x8apY_ndt8J5cBERqBKNoQTFUhIP3aAkF2Bi2lW4AOLcMrsAhiXZ4_q2FhJBezwRbJLJidzOwn9FU6WSFkIpfqcvzMs-DU7yzgzUlm3DS9kNrbxshDcGoLglLWL"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLDkbCKAxhcjs09Jl1axFtwqjz0sr_9Tcg8Pqz0bR0WMO0K7HJ-OTTCm5hfPjpUsdTEC03rmr-AcuwXbobhESwTMaJBDT2-_0t0hPVrxafri6NP52X6jkLp2N6vcUP7QLh4TqxX"
+            }
+          ],
+          "date": "4 months ago"
+        },
+        {
+          "username": "Tadeusz Godlewski",
+          "rating": 5,
+          "contributor_id": "109197423300582920475",
+          "description": "I’ve been coming to the observation deck of the palace for 3 or 4 years now. It never fails to amaze me, the Warsaw skyline from the view of the palace is stunning. Every year I see a new skyscraper added to the skyline. The queue can be long sometimes, especially around sunset. It’s always a good idea to come at least 1 hour before the sun sets on the horizon to have enough time to appreciate it. I also reccomend to buy tickets online to save even more time. There’s also tons of other facilities in the building such as a university, a club, bar, theatre, museum, and much more. My university once had a fancy dance and ball here in one of the venues you can rent out. This is a multi function facility. Come check it out!",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNYLU0zV2hBRRAB!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgICX-M3WhAE%7CCgsI_8qtuAYQwKrAXA%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLGdPtx4bHgCx44Ik_B4qTRoAbkCeZPxH2kccRkgfTxibPu5gH9IEQZyJJmS2SYcjxazsolfikIbc45DkH88_tKDzdkeTmIQALoGFBttoM3rHeeXdiiEZBAKvIl5vs1GIEEGu0"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJZY5pdSE_G58cmzn0-mzlO6-TF2pyf65dL2qXxD5ssqjIm7USdBpH9OrHl-h5mnurZVVQobvLD4u51bY4i_oJEVXF7IHsqD5k-WjonX5_fWUnqDsW4F1akhnFYtCzpl1Stp0OQQw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKdmO9mPR0NIUhyhOXJWMbItTqV-ELgpD4_EbEKNkoHY3hPtUYnYiaCx1ODXZsgmMYfCgYS32O-F4p3dRDkNm9oehf6ME2btGi62yI4q1YfcE2ys8TXNpHPEKJBaACTaaYkvjFL"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKMOVNIMf1ISgY2YjiJC-Kp7lmydh10dQjwgXP8-E3zzBiErU8r7iLWMMoxx4mUIsxs2WUktBhIOET2Z6vc3kmv65o3fwnwCZQc073l559hEIwlC_Y7LDaFYrWM9yTYfcP1f3LotQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKAM1V9S7bJPz6gWrCwzGEKvtkJsD1ProzHlTNOaBRk-gweX_Cds_T-woVLawP7Mx12piMZXZSjuCBvokv7VVms6hZ30DaP7LRy-wxEUZ2za1BYgvXaAUXQYPgGAtwTk_kVZgo"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKvgjbctqJjuShMvYvzLs3nBBq38B_anBiZDaYOaaQwfUY2djxNGvx5_wI8DiRSMkIcgk9Qb0Kq1CO3cNRw0GC_Spof4MClDNLwleqf_vOyDd-jM81gWgRU5JBYsALSsLp_mij90Q"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJJM9pKEExX4hNdqJT7oT8lzmPBsbZeZz2y6rQjB-Qba67WHniblimLjZ-Bf3dWy-9K-Dt7b5x6sJeY396mJcNCzOSXv_zExYlvbdKxG5YUGdTSB-fNV5Y_-5c_P2SKAP6bqLvc"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKGq45vrEJ-NncEgd4mopYipCGf8cbTx7eNPymUdMfyepICOsqPuGeanx8gbNs1_RxeoqOrsOSzkKbaC4OQlMZ-kNzwcERtH_5OdyjFpOH-L-mpKUYHkIVdXKMlP5gmjjkdSv4uwQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKKLY9W8sjHqkdI8HJIUB7cKcrzw3zEdOTQ58cvmGH2yyz8dkpfsrKJ-Wtof8w9cujFRsTtkbs8wRgCSPoRjUorsS3_rezBpa94DSEb0mNK-QSuR-KgFcS7hyfhCCz6lE1UZgPe"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLnivq-C2J-HDyMT0r0hbbQBl5-HVF44amdscDs-126yAzgHHEc4EDYEJnD0zYcTN56BJKk3Pm89ada33_DDxA3yLIAtJfJmN0jlKkGY2FEOtG5uD4kdwYyuNqqN0hXyBLaqMEZrQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIa5dPRFOHxf-97k_59kDUzfnVewC1BCGzb5TYobIZ7eGtGjvo_hMkM9tYlhpXq0ClCdYDza_BAaSob41ECwgqor85ml5WdlWdnz_ONEhBrEmFt4MbmYoYZSqQO75-miPQ5j-QI"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIcZjKqfBhBWIhqN1F44hB5JiXz38fxLxQAX0TBv2YqrySBQfzBYIaf5kigZo1jOqwrf8fnioFKCoTS1n1fVRS8cw7cvRmSDcH_IafrfmgOYjBezts1W_HBylgXasAWpdy2R2NFjA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIUnuc8lqs-L9q3wYwG1QCEV0MKRclhNlNFIMgtqDdtDy5wYUpYtak35kDlrOkXdcBzy3DyJfMOuSWbRfdyDtP6FW_b_9WxTJKBq2cuV_Dpo2fuUBG-Idlos5X5JLUvshNpD9un"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIs5oRIJqLio7p8uEY8z1R7am8DRqYjyYDQD26L3PK5NAd-NyEntz9YA1lXv88FTnRfvlfbOQeoYvdnAZ1wIluNahG9Nf0hfudkTrUtjaXVf2YllYoeQuTYGHrcOjiMz2wRoBmJxA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJAgJORN5OZBFRBlGV8pjAa2mayMDFFf89pzC6zAWBsGLoDg6aBQxJ9icDzIgjMIzBS6NA1bpk2PVOZ_9SdxiSRhJO4czmyEvBg1ZWxS2veuJG8Z6BccZQoyOWuFy-Jvda8VW-s"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKNNp4qa17ic4SQPDPaMyrJwMi-mb6uI7sfsujFH7wJ713O_rGanzy6uhlA4bfp1VLMVeUI0eWPTRaensjsrL5EKCCf4KflzFb-HZGYRQDLNSfEAkb4_a62mCYRrYEeVt9yhTemKQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJI4i6syThzFYxdSlL8aAFXqpNj4UtAQwuNoszvAjGmAZvchkOVzvHV_o5d8LW22zrLPa6be3MHNs-jKgEQmC96CEn8HGZzg71JPSKwzXN7Uq68Fmo3nzGHV2M8nM4zEL1sCWkEh"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIMJbOLZocQz4kdZANCQxKzohvpPBxv3jQoULWy6hS70rL4aQMA0m0JslZRSyqUVMN1dxqBRmOYv1-iLz2cFDO1QnHPe_zfgBULkyiDE-D6nMad7mLQDHOY4HKmow-vk4ASTGsUBQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJISAxQyKfOWYK_EqjcH_sNSiBiUS7BzVBu8hkd8HYoZi9pFH-KYueTfXa9rvRv3FjrxJ0wH8SohKWGLI2WjiE_cuLqVIged_JKkiRY81AWrjoGAFRZSAAp8bCbwVQ9fRnojWJNw"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKQXSoD4cP4Hng4p58s45DwGhtOD46biu1smJyeTt2-UU2jrnvg_YmTu2Aw_y_nZ_XA8d1jAtMAQVRNzmUU81WLn5erOX6xUEb7s_tLik4LFA7anvpQhqz4iTu5maaeRqUFEMrUNA"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIZ-by1ej8rmNdqA72UIv2MZ-0zXmo8TRR95mkDTbTeEspdg4u4r6fCyOLafx3RO6jNtYZcTrDMO28qE7t6CNuooKV38bHYG8PxFZN0BALUKFxMQImX-7F-jq7iBY0fI1RhHHJD"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIH_lNabdUcgORchpxRZJN24sPrNjN5u7tLT439tqtkB9zrRIMYr9wskfHuTRc6j9XvsguW1D0032d0Vd00LbotkUbmeZRSNUSbuJeJ7vcZXIqWpLTxpe5sqUlj7kO-diYNiSUDoQ"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJJc7RJN3lO8Qk3G_O6vBIR3pdHGtuJn7t-MfEHLmmjalkKOqbFL4K3YvW3APOZyl7wWkZL-TujZ7ahFuJbOUJWua6rCx8C9G5ZSn-28Gc4lGKIAzoIeCnmTPniURo3GrCPa0BFG"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLckb3WgafiN1lFzbvXgSKsjPcFr9sg7pHBqhVAHQULub65OVCCDyknDk87NR_UdKBkZhsWmpi0RimhP44oBcCA8PSTp3iw3_qvrn-g1bQg3xpAF4-WG2YAY4ykEc5w4BQZATT5OA"
+            }
+          ],
+          "date": "4 months ago"
+        },
+        {
+          "username": "mike",
+          "rating": 5,
+          "contributor_id": "101967867906756570602",
+          "description": "We have visited it at dusk and were a bit worried that may be it would be too dark to see anything but it appeared to be a cool view with all the night lights and illumination. So we enjoyed it and were not disappointed.\nBetter buy tickets online so that not to wait in line.\nPrice: 28zl",
+          "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNBNzhUb3ZnRRAB!2m1!1s0x0:0xc2e97ae5311f2dc2!3m1!1s2@1:CIHM0ogKEICAgMCA78TovgE%7CCgwInoeOvQYQgLDvowI%7C?hl=en-US",
+          "images": [
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKoVwrCw43_2ojW1uDkaWSXwNSYo6L_l0cNbhLa1hIdK2CNQZf9bv62L993ypv7HM_EggzEgODELw-6C7wShk1nNE39WaPtcUObrcaBFexVsNvxJQ9HrI4sD3Bpm4xyaV0oMGcI"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJIEFJ59LXis10u2reDvm7y7e0w3MEWjifbTNh1ZbEAGnATQ3uERmma3QNG1XcXsRA-dCGrPR7CSaEjWwA38R7Fe83ctoQdExFq9pASdYcaBASfqFLAUuBVb2Apx_4M5AztIhMrrug"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJLHX6kqPx-qCIbHyi3hEkRatlE2olJZQKs3DpcGMh-AYXGAhlrCDxq6V0sadxYBwpiNW-YwVc5aq7x5Uhnn0rV62qkJyC-H3i-U9ehrO3F_67nLLkhF6cbkmK1gkvqZxyW5Sdmo"
+            },
+            {
+              "thumbnail": "https://lh3.googleusercontent.com/geougc-cs/AIHozJKCDQFsjig8dYXKGLq8uwdHFu-cqchYINf__eE3z5lBoUvzkakp33iYYOkGpPyrzBJYiBCXSRjeEj967sjNF11Lil1-uNBjBWOpukksdnIqMN9noREtVol4Ti0T3ZPDoypyyGeh"
+            }
+          ],
+          "date": "3 weeks ago"
+        }
+      ]
+    },
+    "people_also_search_for": [
+      {
+        "search_term": "People also search for",
+        "local_results": [
+          {
+            "position": 1,
+            "title": "Palace of Culture and Science",
+            "data_id": "0x0:0xe41879c739757dbd",
+            "data_cid": "16436020736658079165",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xe41879c739757dbd&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xe41879c739757dbd&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 52.231845,
+              "longitude": 21.0059932
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xe41879c739757dbd%218m2%213d52.231845%214d21.0059932&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+            "rating": 4.3,
+            "reviews": 26,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4NIcL2LbZQCc0G1knDdCCnKHNZY6nxd7DRxWB=w156-h156-n-k-no",
+            "type": [
+              "Museum"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Płyta pamięci",
+            "data_id": "0x0:0xc5b107ada9404b07",
+            "data_cid": "14245175538799889159",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xc5b107ada9404b07&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xc5b107ada9404b07&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 52.2411426,
+              "longitude": 21.0132893
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xc5b107ada9404b07%218m2%213d52.2411426%214d21.0132893&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+            "rating": 4.7,
+            "reviews": 20,
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipORkkxOk2QJhbLnZPINGZp1nPbdhnFy1spCZKl4=w156-h277-k-no",
+            "type": [
+              "Historical landmark"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Parade Square",
+            "data_id": "0x0:0x3227e0030caec017",
+            "data_cid": "3614103529690415127",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x3227e0030caec017&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x3227e0030caec017&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 52.23235,
+              "longitude": 21.0087401
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x3227e0030caec017%218m2%213d52.23235%214d21.0087401&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+            "rating": 4.2,
+            "reviews": 927,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrLAGMiizAOyzUGrMOoSRg-2e2ES8-erFf9Boe=w156-h156-n-k-no",
+            "type": [
+              "City park"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Kulturpalatset",
+            "data_id": "0x0:0xba86e986ab2cf75c",
+            "data_cid": "13440686902540564316",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0xba86e986ab2cf75c&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0xba86e986ab2cf75c&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 52.2318474,
+              "longitude": 21.0059452
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0xba86e986ab2cf75c%218m2%213d52.2318474%214d21.0059452&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+            "rating": 5,
+            "reviews": 1,
+            "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPvi0AmcMiXBubXh6B3ILqed-fw3HqVb8UQoXuF=w208-h156-k-no",
+            "type": [
+              "Condominium complex"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Pałac Gnińskich",
+            "data_id": "0x0:0x809702dc9abe7303",
+            "data_cid": "9265877904850318083",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x0%3A0x809702dc9abe7303&engine=google_maps_reviews&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x0%3A0x809702dc9abe7303&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+              "latitude": 52.2365083,
+              "longitude": 21.0230011
+            },
+            "place_id_search": "https://serpapi.com/search.json?data=%214m5%213m4%211s0x0%3A0x809702dc9abe7303%218m2%213d52.2365083%214d21.0230011&engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJSS5pkozMHkcRwi0fMeV66cI&type=place",
+            "rating": 4.5,
+            "reviews": 971,
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNXFM1GW4fVQ771Mm6MlcadbqpzBxOpFtun0Yn1=w156-h156-n-k-no",
+            "type": [
+              "Historical landmark"
+            ]
+          }
+        ]
+      }
+    ],
+    "popular_times": {
+      "graph_results": {
+        "sunday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 78
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 87
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 90
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 89
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 88
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 85
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 76
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "monday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 44
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 44
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 24
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 32
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 31
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 44
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 30
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 46
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 48
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 56
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 61
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "8 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 81
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 91
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 94
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 95
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 95
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 99
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 90
+          },
+          {
+            "time": "8 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "11 PM",
+            "busyness_score": 0
+          }
+        ]
+      },
+      "live_hash": {
+        "info": "Not too busy"
+      }
+    },
+    "web_results_link": "https://www.google.com/search?q=local+guide+program&ibp=gwp;0,26,OjIKMCIsUGFsYWNlIG9mIEN1bHR1cmUgYW5kIFNjaWVuY2UgV2Fyc2F3LCBQb2xhbmQoAg&pcl=lp",
+    "serpapi_web_results_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&ibp=gwp%3B0%2C26%2COjIKMCIsUGFsYWNlIG9mIEN1bHR1cmUgYW5kIFNjaWVuY2UgV2Fyc2F3LCBQb2xhbmQoAg&q=local+guide+program"
+  }
+}

@@ -25,3 +25,14 @@ body {
   background-color:#02623f;
   @apply px-8 py-4 text-white transition-all hover:bg-black
 }
+
+.btn_green{
+  background-color: #30AF5B;
+  border-color: #30AF5B;
+  @apply  px-8 py-5 text-white
+}
+
+.hero-map {
+  background-image: url('/pattern-bg.png');
+  @apply absolute right-0 top-0 h-screen w-screen  bg-cover bg-center md:-right-28 xl:-top-60;
+}
