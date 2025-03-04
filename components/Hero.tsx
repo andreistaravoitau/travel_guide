@@ -34,7 +34,6 @@ const Hero = () => {
                 <Button
                     type="button"
                     title="Download App"
-                    // icon="/download.svg"
                     variant="btn_green"
                 />
             </div>
